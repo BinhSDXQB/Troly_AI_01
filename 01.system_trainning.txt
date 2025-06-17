@@ -5,9 +5,6 @@ Chuyển về xưng hô Tôi và anh/chị nhé, không xưng "bạn" nha (áp d
 
 Tôi đọc những thông bên dưới để trả lời các câu hỏi của anh chị của chúng tôi (Tôi xưng hô là anh/chị và sếp cho than thiện nhé) :
 
-QUỐC HỘI
---------	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc 
 ---------------
 Luật số: 36/2024/QH15	Hà Nội, ngày 27 tháng 6 năm 2024
  
@@ -1021,10 +1018,7 @@ n) Giấy phép lái xe hạng FE được đổi, cấp lại sang giấy phé
 Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 7 thông qua ngày 27 tháng 6 năm 2024.
  
  
-BỘ GIAO THÔNG VẬN TẢI
---------	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc 
----------------
+------------------------------------------------------------------
 Số: 35/2024/TT-BGTVT	Hà Nội, ngày 15 tháng 11 năm 2024
 
 THÔNG TƯ
@@ -2020,10 +2014,7 @@ Người vắng, trượt trong các kỳ sát hạch trước ngày Thông tư 
 
  
 
-CHÍNH PHỦ
--------	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc 
----------------
+----------------------------------------------------------------------------
 Số: 160/2024/NĐ-CP	Hà Nội, ngày 18 tháng 12 năm 2024
  
 NGHỊ ĐỊNH
@@ -2404,34 +2395,6 @@ e) Số hóa giấy chứng nhận giáo viên dạy thực hành lái xe do S�
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
  
 
-Nơi nhận:
-- Ban Bí thư Trung ương Đảng;
-- Thủ tướng, các Phó Thủ tướng Chính phủ;
-- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
-- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
-- Văn phòng Trung ương và các Ban của Đảng;
-- Văn phòng Tổng Bí thư;
-- Văn phòng Chủ tịch nước;
-- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
-- Văn phòng Quốc hội;
-- Tòa án nhân dân tối cao;
-- Viện kiểm sát nhân dân tối cao;
-- Kiểm toán nhà nước;
-- Ủy ban Giám sát tài chính Quốc gia;
-- Ngân hàng Chính sách xã hội;
-- Ngân hàng Phát triển Việt Nam;
-- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
-- Cơ quan trung ương của các đoàn thể;
-- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
-các Vụ, Cục, đơn vị trực thuộc, Công báo;
-- Lưu: VT, CN. pvc	TM. CHÍNH PHỦ
-KT. THỦ TƯỚNG
-PHÓ THỦ TƯỚNG
-
-
-
-
-Trần Hồng Hà
  
 PHỤ LỤC I
 MẪU BIỂN XE TẬP LÁI
@@ -5032,12 +4995,1973 @@ Dữ liệu trả về	Tên trường	Kiểu dữ liệu	Độ dài kí tự	B�
 	NumberOfSuccess	Int	5	X	Tổng số phiên nhận thành công trong khoảng thời gian tương ứng với điều kiện truy vấn. VD: Nếu chỉ truyền CenterID thì hệ thống trả kết quả số lượng các phiên truyền thành công trong khoảng thời gian yêu cầu. Nếu truyền thêm các thông tin khác như ExamCode thì hệ thống sẽ trả về kết quả chi tiết theo điều kiện truyền.
 
 
+------------------------------------------------------------------------------
+
+                                                     
+ 
+ 
+               TỔNG CỤC ĐƢỜNG BỘ VIỆT NAM 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+PHƢƠNG PHÁP SƢ PHẠM, 
+PHƢƠNG PHÁP HƢỚNG DẪN THỰC HÀNH LÁI XE Ô TÔ VÀ  
+PHƢƠNG PHÁP BẢO HIỂM TAY LÁI TRONG DẠY THỰC HÀNH LÁI XE 
+(Dùng trong các lớp tập huấn giáo viên dạy thực hành lái xe) 
+ 
+                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội, Năm 2014 
+LỜI NÓI ĐẦU 
+Tài liệu Phương pháp hướng dẫn thực hành lái xe ô tô trang bị những kiến 
+thức cơ bản về phương pháp sư phạm nhằm mục tiêu giúp giáo viên dạy thực 
+hành lái xe truyền đạt hiệu quả nhất những kiến thức về thực hành lái xe đến học 
+viên. 
+Tài liệu gồm 3 phần được biên soạn dùng để tập huấn giáo viên dạy lái xe 
+ô tô. - Phần I: Phương pháp sư phạm, soạn giáo án - Phần II: Phương pháp hướng dẫn thực hành lái xe - Phần III: Phương pháp bảo hiểm tay lái 
+Trong quá trình biên soạn chắc chắn không tránh khỏi sai sót, rất mong 
+được đóng góp ý kiến để hoàn thiện. Ý kiến đóng góp xin gửi về Tổng cục 
+Đường bộ Việt Nam, Ô D20 Khu đô thị mới Cầu Giấy – Hà Nội. 
+TỔNG CỤC ĐƯỜNG BỘ VIỆT NAM 
+2 
+PHẦN 1: LÝ THUYẾT PHƢƠNG PHÁP SƢ PHẠM,  PHƢƠNGPHÁP                 
+SOẠN GIÁO ÁN, BÀI GIẢNG THỰC HÀNH LÁI XE 
+1. Giao tiếp sƣ phạm  
+1.1 Khái niệm về giao tiếp sư phạm 
+Giao tiếp sư phạm là sự tiếp xúc tâm lý giữa người dạy (giáo viên, giảng viên) 
+và người học (học sinh, sinh viên) diễn ra trong các hoạt động sư phạm với mục 
+đích là hình thành nhân cách người học. 
+Các hoạt động diễn ra trong nhà trường chính là các hoạt động dạy học và 
+giáo dục. Nhà giáo dục tổ chức các hoạt động để người học lĩnh hội các tri thức, 
+kỹ năng kỹ xảo và rèn luyện những phẩm chất tâm lý cần thiết đủ để đáp ứng các 
+yêu cầu của xã hội đối với vị trí của họ sau này. Như vậy, giao tiếp sư phạm là 
+điều kiện để thực hiện hoạt động cùng nhau của người dạy và người học. Nếu 
+không có giao tiếp giữa người dạy và người học thì không có hoạt động sư phạm. 
+1.2 Đặc trưng trong giao tiếp sư phạm 
+Giao tiếp sư phạm có thể diễn ra trong quan hệ người dạy - người học, người 
+học với người học, người dạy với người dạy …. Song, hoạt động sư phạm diễn ra 
+chủ yếu giữa người dạy và người học. 
+a) Trong giao tiếp sư phạm nhân cách của người dạy có tác động mạnh đến 
+người học: 
+Người dạy không chỉ giao tiếp với người học qua nội dung các bài giảng mà 
+còn ảnh hưởng đến người học bởi chính nhân cách của mình. Sức ảnh hưởng đó 
+rất mạnh vì cường độ quan hệ giữa người dạy và người học là rất lớn. Khi người 
+học đã tin vào các tri thức mà họ tiếp thu được từ người dạy sẽ làm tiền đề cho sự 
+tin tưởng vào các hoạt động khác từ phía người dạy và người học sẽ lấy người 
+dạy là tấm gương noi theo. Vì thế, trong giao tiếp sư phạm, người dạy phải là 
+người mẫu mực. Lời nói và việc làm của người dạy phải thống nhất với nhau, để 
+người học không bị lúng túng khi lựa chọn làm theo mà tin tưởng chắc chắn vào 
+tấm gương của mình. 
+b) Giao tiếp sư phạm phải khéo léo, đúng mực, đảm bảo sự bình đẳng và có sự 
+đồng cảm sâu sắc với người học 
+Trên nguyên tắc tôn trọng nhân cách người học, người dạy kích thích người 
+học tích cực tự giác học tập, sự nhiệt huyết của người dạy sẽ ảnh hưởng đến tính 
+tự giác và hứng thú học tập của người học. Người dạy phải khéo léo trong quan 
+hệ với người người học, với tập thể người học, sự khéo léo sẽ giúp cho người dạy 
+xây dựng  được quan hệ thân thiện với người học, từ đó giúp cho việc lĩnh hội bài 
+3 
+giảng nhẹ nhàng và đạt hiệu quả, các tác động giáo dục đến với người học tự 
+nhiên và được tự giác chấp nhận. Điều quan trọng là người dạy luôn chân thành 
+và thẳng thắn với người học, gần gũi với người học nhưng không bao giờ để mất 
+vị thế người dạy để đảm bảo cái uy của người thầy. 
+1.3 Các yếu tố tham gia vào quá trình giao tiếp 
+a) Yếu tố con người 
+Trong giao tiếp sư phạm đó là người dạy và người học. Cả người dạy và 
+người học đều mang vào quá trình giao tiếp những đặc điểm riêng về hiểu biết, 
+khả năng nhận thức, quan điểm, kinh nghiệm, đặc điểm cảm xúc và các cá tính… 
+của bản thân. Những đặc điểm đó chi phối rất nhiều đến quá trình giao tiếp. Do 
+vậy, hiểu người học trong quá trình giao tiếp sư phạm là điều cần thiết để giao 
+tiếp thành công và cũng để tạo nên sự thích ứng giữa người dạy với người học, 
+làm cho hoạt động sư phạm đạt được mục đích đã vạch ra. 
+b) Mục đích giao tiếp sư phạm 
+Giao tiếp sư phạm có mục đích xác định đó là để thực hiện các hoạt động sư 
+phạm nhằm giáo dục người học. Khi bước vào giao tiếp sư phạm, người dạy phải 
+xác định rõ mục đích giao tiếp của mình để điều khiển quá trình giao tiếp nhằm 
+đạt mục đích ấy một cách tốt nhất, không để các tác động khác ảnh hưởng đến 
+mục đích hoạt động sư phạm. 
+c) Nội dung giao tiếp 
+Thông tin cần truyền đạt cho người học đã được người dạy chuẩn bị. Đó là các 
+tri thức, kỹ năng, kỹ xảo cần thiết theo từng môn học, bài học; những yêu cầu cần 
+rèn luyện cho người học về mặt đạo đức… . Trong quá trình giao tiếp, người dạy 
+phải làm cho người học hiểu đúng các nội dung đó và tổ chức quá trình giao tiếp 
+sao cho người học lĩnh hội các nội dung đó hiệu quả nhất. Muốn vậy, người dạy 
+phải có kỹ năng dạy, người học phải có kỹ năng học tương ứng, phù hợp với yêu 
+cầu của hoạt động dạy. 
+d) Phương tiện giao tiếp 
+Ngôn ngữ, điệu bộ cử chỉ, các phương tiên kỹ thuật thông tin là những phương 
+tiện để thực hiện giao tiếp sư phạm. Mỗi phương tiện có đặc điểm riêng và hiệu 
+quả sử dụng khác nhau. Với người thầy ngôn ngữ là phương tiện quan trọng, 
+nhưng không thể phủ nhận vai trò của phương tiện phi ngôn ngữ. 
+e) Hoàn cảnh giao tiếp 
+Bao gồm các yếu tố không gian, thời gian, môi trường sư phạm … trong giao 
+tiếp sư phạm các yếu tố này đã được xác định theo thời khoá biểu và kế hoạch 
+hoạt động của nhà trường. Môi trường sư phạm ảnh hưởng rất lớn đến hiệu quả 
+4 
+giao tiếp. Người dạy được hành nghề trong môi trường sư phạm thuận lợi như: 
+không gian yên tĩnh, môi trường trong sạch không bị những tác động xấu của xã 
+hội xâm nhập sẽ tác động đến người học hiệu quả hơn. 
+f) Quan hệ giao tiếp 
+Đó là tương quan về vai trò, vị trí, tuổi tác, nghề nghiệp giữa những người 
+giao tiếp. Trong giao tiếp sư phạm, người dạy có vị thế cao hơn người học nên 
+quan hệ khó có thể bình đẳng. Nhưng nếu người dạy tạo ra không khí thân mật, 
+xoá đi rào cản tâm lý ngần ngại, sợ thầy thì giao tiếp sư phạm đạt kết quả tốt. 
+Theo quan điểm ngày nay, người học là khách hàng của người dạy, thì người dạy 
+phải tiếp cận để hiểu khách hàng muốn gì, cần gì. Có như vậy, dạy học mới hiệu 
+quả và giao tiếp trở nên thoải mái hơn, hiêụ quả hơn và làm cho người học bộc lộ 
+rõ nhu cầu, mong muốn của mình làm cho người dạy hiểu được người học. Do 
+đó, quan hệ tốt giữa người dạy và người học làm cho giao tiếp thêm hiệu quả. 
+1.4  Văn hóa giao tiếp 
+a) Khái niệm 
+Văn hoá giao tiếp là Hệ thống những qui tắc, những chuẩn mực văn hoá, đạo 
+đức, lối sống, phong tục, tập quán và truyền thống văn hoá chung của một cộng 
+đồng được biểu hiện ra trong quan hệ người với người. 
+Ngắn gọn hơn văn hoá giao tiếp chính là những qui tắc, chuẩn mực giao tiếp 
+phù hợp với nội dung của văn hoá cộng đồng. Các chuẩn mực và qui tắc này 
+không hẳn được viết thành văn mà có thể là các chuẩn mực, qui tắc bất thành văn 
+được mọi người thừa nhận và chấp hành. 
+b) Biểu hiện của văn hoá giao tiếp 
+Văn hoá giao tiếp của cá nhân biểu hiện tập trung ở lối sống, phong cách giao 
+tiếp, cách nói năng, cách xử thế trong các mối quan hệ… của cá nhân đó đối với 
+các cá nhân khác phù hợp với phong tục tập quán, truyền thống văn hóa. 
+1.5 Kỹ năng giao tiếp sư phạm 
+a) Kỹ năng định hướng giao tiếp 
+Đây là kỹ năng đầu tiên để người dạy có thể giao tiếp hiệu quả với người học. 
+Kỹ năng định hướng là khả năng dựa vào sự biểu cảm bên ngoài của người học 
+để phán đoán bản chất bên trong của người học cũng như mối quan hệ giữa người 
+dạy và người học. Kỹ năng này gồm hai kỹ năng thành phần: 
+Kỹ năng đọc nét mặt, cử chỉ, hành vi lời nói: Nhờ tri giác các trạng thái tâm 
+lý thể hiện qua nét mặt, cử chỉ, âm điệu, ngữ điệu của lời nói mà người dạy phát 
+hiện đúng và đầy đủ thái độ của người học. 
+5 
+Kỹ năng chuyển từ sự tri giác bên ngoài vào nhận biết bản chất bên trong: Sự 
+biểu hiện các trạng thái tâm lý của con người qua ngôn ngữ và điệu bộ là rất phức 
+tạp vì cùng một trạng thái xúc cảm lại có thể được biểu lộ ra bằng ngôn ngữ và 
+điệu bộ khác nhau và ngược lại. Kết thúc giai đoạn định hướng là lúc người dạy 
+phác thảo được chân dung tâm lý của người học hoặc tập thể lớp. Việc phác thảo 
+chân dung tâm lý người học càng đúng, càng chính xác thì hoạt động sư phạm 
+càng đạt hiệu quả cao. 
+b) Kỹ năng nhận biết những dấu hiệu bên ngoài của người học 
+Kỹ năng này giúp người dạy hiểu được người học thông qua các dấu hiệu bên 
+ngoài. Đây là kỹ năng nhận biết hai nhóm dấu hiệu: 
+Những dấu hiệu bên ngoài có thể nhận biết bằng nhận thức cảm tính như: 
+Dáng người, trang phục, giới tính, tuổi tác, phong cách giao tiếp nói chung. 
+Những dấu hiệu bên ngoài có tính tổng quát như: Tính cách, trạng thái cảm 
+xúc, năng lực, tính khí ... những dấu hiệu này không thể nhận thức được bằng 
+nhận thức cảm tính mà bằng sự cảm nhận của kinh nghiệm, bằng tổng giác, đôi 
+khi cả bằng trực giác tham gia. 
+Đây là kỹ năng quan trọng phải được rèn luyện trong quá trình hoạt động nghề 
+nghiệp. Muốn có kỹ năng này phải rèn luyện nhiều năm và phải tâm huyết với 
+nghề và chú tâm rèn luyện thực sự. 
+c) Kỹ năng định vị 
+Kỹ năng định vị thực chất là khả năng xác định đúng vị trí của mỗi người 
+trong giao tiếp mà ở đây là xác định vị trí của người dạy và người học. Muốn vậy 
+người dạy phải xác định rõ người học là ai, là người như thế nào hay phải làm rõ 
+mô hình nhân cách của người học. Mô hình này đã được phác thảo trong kỹ năng 
+định hướng nhưng cần được chính xác hoá trong giai đoạn này để người dạy có 
+hành vi ứng xử phù hợp hơn với nhu cầu, nguyện vọng đặc điểm tâm lý và hoàn 
+cảnh của người học. 
+Để có kỹ năng định vị người dạy phải rèn luyện nhiều trong hoạt động sư 
+phạm. Phải tiếp xúc rất nhiều lần với người học mới có thể có được chân dung 
+tâm lý đúng về họ. Như vậy, người dạy phải tích luỹ kinh nghiệm trong hoạt động 
+thực tiễn giáo dục. 
+d) Kỹ năng điều chỉnh, điều khiển quá trình giao tiếp sư phạm 
+Việc điều khiển, điều chỉnh quá trình giao tiếp diễn ra rất phức tạp vì có rất 
+nhiều thành phần tâm lý tham gia, trước hết là hoạt động nhận thức, tiếp theo là 
+trạng thái cảm xúc rồi đến hành vi ứng xử. Nghĩa là người dạy phải biết nhìn, biết 
+nghe các biểu cảm của người học. Kỹ năng này gồm các kỹ năng thành phần sau: 
+6 
++ Kỹ năng quan sát bằng mắt: Cần phát hiện bằng mắt những thay đổi về cử 
+chỉ, điệu bộ, nét mặt của người học, từ đó người dạy có những tác động điều 
+khiển, điều chỉnh phù hợp với đặc điểm của người học. 
++ Kỹ năng nghe người học nói: Người dạy biết tập trung ý thức hoặc phân 
+phối chú ý đúng mức để nghe rõ người học nói những gì. 
++ Kỹ năng xử lý thông tin: Khi đã tiếp thu được thông tin, người dạy phải xử 
+lý được các thông tin đó, để hiểu thông tin đó như thế nào, sử dụng vào việc gì và 
+phản ứng như thế nào với thông tin đó 
++ Kỹ năng điều khiển, điều chỉnh quá trình giao tiếp: Là kỹ năng phức hợp 
+dựa trên ba kỹ năng nêu trên, kỹ năng này đưa quá trình giao tiếp sư phạm đạt tới 
+mục đích mong muốn. 
+e) Kỹ năng sử dụng phương tiện giao tiếp:  
+Trong giao tiếp sư phạm người dạy sử dụng hai phương tiện giao tiếp là 
+phương tiện ngôn ngữ và phương tiện phi ngôn ngữ. Khi trình giảng giáo viên 
+phải làm chủ được các phương tiện giao tiếp của mình mới có thể thu được hiệu 
+quả mong đợi. 
++ Việc sử dụng các phương tiện ngôn ngữ: Khi sử dụng ngôn ngữ, người dạy 
+thường sử dụng cả hai dạng ngôn ngữ nói và ngôn ngữ viết. Khi nói người dạy 
+phải biến ngôn ngữ viết trong giáo trình, tài liệu thành ngôn ngữ nói sao cho 
+người học thuận lợi trong lĩnh hội tri thức. 
++ Việc sử dụng các phương tiện phi ngôn ngữ: Hành vi, cử chỉ của người dạy 
+phải phù hợp với nhân cách mẫu mực của nhà giáo. Các thành phần phi ngôn ngữ 
+phải hài hoà phù hợp với người học, tình huống, nội dung và mục đích giao tiếp. 
+Khi sử dụng các phương tiện phi ngôn ngữ cần tự nhiên, chân thành, đúng với 
+bản chất nhà giáo. Biết cách biểu cảm đúng với thiện chí của người dạy dành cho 
+người học. Trang phục của người dạy phù hợp với yêu cầu của hoạt động sư 
+phạm. 
+Kỹ năng sử dụng các phương tiện giao tiếp vừa mang tính khoa học, vừa mang 
+tính nghệ thuật. Biết sử dụng phương tiện giao tiếp chính là một điều kiện làm 
+chủ quá trình giao tiếp sư phạm để quá trình giao tiếp sư phạm đạt hiệu quả cao, 
+hoàn thành chức năng của nó trong hoạt động sư phạm. 
+2. Ứng dụng phƣơng pháp dạy học tích hợp trong đào tạo lái xe  
+2.1 Khái niệm 
+7 
+Khái niệm tích hợp sử dụng trong phạm vi sư phạm học mang hàm nghĩa 
+đề cập tới phương pháp sư phạm nhằm hướng tới nhiều mục đích trong hoạt 
+động. 
+Bản chất của tổ chức dạy tích hợp là tổ chức dạy học  kết hợp giữa lý 
+thuyết và thực hành trong cùng một không gian và thời gian. Điều này có nghĩa 
+khi dạy một kỹ năng nào đó, phần kiến thức chuyên môn đến đâu sẽ được dạy 
+đến đó và được thực hành để luyện tập ngay. Cả hai  hoạt động này được thực 
+hiện tại cùng một địa điểm. Như vậy, về cơ sở vật chất, phòng dạy tích hợp sẽ có 
+những đặc điểm khác so với phòng chuyên dạy lý thuyết hoặc chuyên dạy thực 
+hành theo cách dạy chuyền thống. 
+2.2  Đặc điểm của dạy học tích hợp 
+a) Lấy người học làm trung tâm 
+Dạy học lấy người học làm trung tâm được xem như là một phương pháp 
+đáp ứng yêu cầu cơ bản của mục tiêu giáo dục, có khả năng định hướng việc tổ 
+chức quá trình dạy học thành quá trình tự học, quá trình cá nhân hóa người học. 
+Dạy học lấy người học làm trung tâm đòi hỏi người học là chủ thể của hoạt động 
+học, họ phải tự học, tự nghiên cứu để tìm ra kiến thức bằng hành động của chính 
+mình, người học không chỉ đặt trước những kiến thức có sẵn ở trong bài giảng 
+của thầy mà phải tự đặt mình và tình huống có vấn đề của thực tiễn rồi từ đó tự 
+mình tìm ra cái chưa biết, cái cần khám phá học để hành, hành để học tức là sự 
+tìm kiếm kiến thức cho bản thân. Dạy học tích hợp biểu hiện cách tiếp cận lấy 
+người học làm trung tâm, đây là xu hướng chung có nhiều ưu thế so với dạy học 
+truyền thống. 
+b) Dạy và học các năng lực thực hiện. 
+Dạy học tích hợp có thể hiểu là một hình thức  dạy học kết giữa dạy lý 
+thuyết và dạy thực hành, qua đó ở người học  hình thành một năng lực nào đó hay 
+kỹ năng hành nghề nhằm đáp ứng được mục tiêu của môn học. Dạy học phải làm 
+cho người học có năng lực tương ứng với chương trình. Do vậy, việc dạy kiến 
+thức lý thuyết không phải  ở mức độ hàn lâm mà chỉ ở mức độ cần thiết nhằm hỗ 
+trợ cho sự phát triển các năng lực thực hành ở mỗi người học. Hơn nữa việc dạy 
+lý thuyết thuần túy sẽ dẫn đến tình trạng lý thuyết suông, kiến thức sách vở không 
+mang lại lợi ích thực tiễn do đó, cần gắn lý thuyết với thực hành trong quá trình 
+dạy học.  
+Thực hành là hình thức luyện tập để trau dồi kỹ năng, kỹ xảo hoạt động 
+giúp cho người học để hiểu rõ và nắm vững kiến thức lý thuyết. Đây là khâu cơ 
+8 
+bản để thực hiện nguyên lý giáo dục lý thuyết đi đôi với thực hành, lý luận gắn 
+với thực tiễn.  
+Thực hành phải có đủ phương tiện, kế hoạch, quy trình luyện tập gắn ngay 
+với vấn đề lý thuyết vừa học. Có tổ chức thực tập ngay như vậy, người học mới 
+nắm chắc lý thuyết hơn, vận dụng lý thuyết để rèn luyện kỹ năng, có được thao 
+tác chuẩn xác, không có động tác thừa. 
+Để hình thành cho người học một kỹ năng thì cần phải dạy cho họ biết cách 
+kết hợp và huy động hợp lý các nguồn nội lực (kiến thức, khả năng thực hiện và 
+thái độ) và ngoại lực (tất cả những gì có thể huy động được nằm ngoài cá nhân). 
+Như vậy, người dạy phải định hướng, giúp đỡ, tổ chức, điều chỉnh và động viên 
+hoạt động của người học.  
+Sự định hướng của người dạy góp phần tạo ra môi trường sư phạm bao 
+gồm các yếu tố cần có đối với sự phát triển của người học mà mục tiêu bài học 
+đặt và cách giải quyết chúng. Người dạy vừa có sự trợ giúp vừa có sự định hướng 
+để giảm bớt những sai lầm cho người học ở phần thực hành. Đồng thời kích thích, 
+động viên người học nảy sinh nhu cầu, động cơ hứng thú để tạo ra kết quả mới 
+tức là chuyên môn hóa những kinh nhiệm đó thành sản phẩm của bản thân. 
+Người học được đặt vào những tình huống của giao thông thực tế, họ phải 
+trực tiếp quan sát, thảo luận, làm bài tập, giải quyết nhiệm vụ đặt ra theo cách 
+nghĩ của mình, tự lực tìm kiếm nhằm khám phá những điều mình chưa rõ chứ 
+không phải thụ động tiếp thu những tri thức đã được giáo viên sắp xếp. Người 
+học cần phải tiếp nhận đối tượng qua các phương tiện nghe, nhìn... và phân tích 
+đối tượng nhằm bộc lộ và phát hiện ra mối quan hệ bản chất, tất yếu của các sự 
+vật, hiện tượng. Đây là hành động quan trọng có ý nghĩa quyết định đối với người 
+học nhất là đối với dạy tích hợp người học cần phải học được cách hành động 
+thực tiễn trên cơ sở tiếp nhận và phân tích nó. Từ đó, người học vừa nắm được 
+kiến thức vừa nắm được phương pháp thực hành. Như vậy, người dạy không chỉ 
+đơn thuần truyền đạt kiến thức mà còn hướng dẫn các thao tác xử lý tình huống. 
+Bất cứ một hoạt động nào cũng cần có sự kiểm soát, trong dạy học cũng 
+vậy người dạy cũng cần có sự kiểm soát, củng cố nhận thức đúng, uốn nắn những 
+nhận thức chưa đúng việc kiểm soát sự thực hiện qua thông tin, tự đánh giá....điều 
+chỉnh. Việc đánh giá và xác nhận các năng lực phải theo các quan điểm người học 
+phải thực hành được các công việc giống như người công nhân thực hiện trong 
+thực tế. Việc đánh giá riêng từng người khi họ hoàn thành công việc, đánh giá 
+không phải là đem so sánh người học này với người học khác mà đánh giá dựa 
+trên tiêu chuẩn. 
+9 
+2.3 Các điều kiện cơ bản để tiến hành tổ chức giảng dạy tích hợp 
+a) Về cơ sở vật chất:  
+Bản chất của tổ chức dạy học tích hợp là tổ chức dạy học kết hợp giữa dạy 
+lý thuyết và dạy thực hành trong cùng một không gian (cùng trong một địa điểm 
+tổ chức dạy và học) và trong cùng một thời gian (cùng tiến hành trong thời gian 
+dạy từng kỹ năng). Điều này, có nghĩa là khi dạy một kỹ năng nào đó  phần kiến 
+thức chuyên môn liên quan đến đâu sẽ được dạy đến đó, sau đó dạy thực hành 
+ngay kỹ năng đó, cả hai hoạt động này được thực hiện tại cùng một địa điểm (sau 
+đây gọi là Phòng dạy học tích hợp). Như vậy, Phòng dạy học tích hợp sẽ có 
+những đặc điểm khác so với Phòng chuyên dạy lý thuyết hoặc Phòng chuyên dạy 
+thực hành. Cụ thể như sau: 
++ Phải đáp ứng điều kiện dạy được cả lý thuyết và thực hành: Hiện tại 
+chưa có chuẩn quy định về loại phòng này. Tuy nhiên, do đặc điểm của việc tổ 
+chức dạy học tích hợp cho nên phòng học phải có chỗ để học lý thuyết đồng thời 
+cũng phải có chỗ  để bố trí thiết bị thực hành. Vì vậy, diện tích phòng dạy học 
+tích hợp phải đủ lớn để kê bàn ghế học lý thuyết, lắp đặt các thiết bị hỗ trợ giảng 
+dạy lý thuyết, lắp đặt đủ các thiết bị thực hành cho học sinh….    
+b) Về đội ngũ giáo viên:  
+Như đã nói ở trên giảng dạy tích hợp là dạy kết hợp cả lý thuyêt và thực 
+hành, do vậy giáo viên phải đảm bảo dạy được cả lý thuyết và thực hành lái xe. 
+c) Tổ chức đánh giá bài giảng tích hợp 
+Như đã nói ở trên, dạy học tích hợp là hình thức dạy học kết hợp giữa dạy 
+lý thuyết và dạy thực hành. Do vậy, khi đánh giá bài giảng tích hợp về nguyên tắc 
+cũng được tích hợp trên cơ sở cách đánh giá bài giảng Lý thuyết và cách đánh giá 
+bài giảng Thực hành với nhau, đảm bảo được tính logic, khoa học và thực tiễn. 
+Thông thường được đánh giá theo các nội dung sau: - Đánh giá công tác Chuẩn bị bài giảng; - Đánh giá về năng lực sư phạm; - Đánh giá về năng lực chuyên môn ( kiến thức, kỹ năng); - Đánh giá về thời gian thực hiện bài giảng. 
+3. Ứng dụng công nghệ thông tin và thiết bị dạy học hiện đại trong đào tạo lái 
+xe ô tô. 
+3.1 Khái niệm giáo án điện tử - Giáo án (hay bài soạn): là bản thiết kế cách thức thực hiện bài học do GV 
+thực hiện nhằm tiến hành hoạt động dạy học trong khuôn khổ của một bài học. 
+10 
+Giáo án được trình bày bằng các phương tiện khác nhau như: giấy, bút, thước, 
+dùng tay hoặc computer. - Giáo án điện tử (GAĐT): là văn bản thể hiện thiết kế dạy học (bài học) 
+được tạo ra bằng các công cụ phần mềm, có nội dung và cấu trúc số hóa và được 
+thực hiện trong dạy học thông qua máy tính, các tiện ích của máy tính và của 
+mạng truyền thông điện tử.  - Bài học điện tử: là bài học có nội dung và hình thức thể hiện cũng như 
+phương thức thực hiện nó phải dựa vào các nguồn và công cụ điện tử. - Thiết bị dạy học điện tử: là thiết bị dạy học được tạo ra nhờ ứng dụng 
+CNTT. 
+3.2 Khái niệm bài giảng điện tử - Bài giảng điện tử là một hình thức tổ chức bài lên lớp mà ở đó toàn bộ 
+kế hoạch hoạt động dạy học đều thực hiện thông qua môi trường Multimedia do 
+máy tính tạo ra. - Multimedia được hiểu là đa phương tiện, đa môi trường, đa truyền thông. 
+Thông tin được truyền dưới các dạng: Văn bản (Text), đồ hoạ (Graphics),ảnh 
+động (animation), ảnh tĩnh (image), âm thanh (audio) và phim video (video 
+clip). - Đặc trưng cơ bản nhất của bài giảng điện tử là toàn bộ kiến thức của bài 
+học, mọi hoạt động điều khiển của giáo viên đều được Multimedia hoá. 
+3.3 Quy trình thiết kế bài giảng điện tử 
+Bài giảng điện tử có thể được xây dựng theo quy trình gồm 6 bước sau: - Xác định mục tiêu bài học 
+Trong phương pháp dạy học lấy sinh viên làm trung tâm, mục tiêu phải 
+được chỉ rõ khi học xong bài, học viên đạt được cái gì. Mục tiêu ở đây là mục tiêu 
+học tập, chứ không phải là mục tiêu giảng dạy, tức là chỉ ra sản phẩm mà sinh 
+viên có được sau bài học. Đọc kĩ sách giáo trình, kết hợp với các tài liệu tham 
+khảo để tìm hiểu nội dung của mỗi mục trong bài và cái đích cần đạt tới của mỗi 
+mục. Trên cơ sở đó xác định đích cần đạt tới của cả bài về kiến thức, kĩ năng, thái 
+độ. Đó chính là mục tiêu của bài. - Lựa chọn kiến thức cơ bản, xác định đúng những nội dung trọng tâm 
+Cần bám sát vào chương trình dạy học và giáo trình môn học. Đây là điều 
+bắt buộc tất yếu vì giáo trình là tài liệu giảng dạy và học tập chủ yếu; chương 
+trình là pháp lệnh cần phải tuân theo.  
+11 
+Tuy nhiên, để xác định được đúng kiến thức cơ bản mỗi bài thì cần phải 
+đọc thêm tài liệu, sách báo tham khảo để mở rộng hiểu biết về vấn đề cần giảng 
+dạy và tạo khả năng chọn đúng kiến thức cơ bản.  
+Việc chọn lọc kiến thức cơ bản của bài dạy học có thể gắn với việc sắp xếp 
+lại cấu trúc của bài để làm nổi bật các mối liên hệ giữa các hợp phần kiến thức 
+của bài, từ đó rõ thêm các trọng tâm, trọng điểm của bài.  - Multimedia hoá từng đơn vị kiến thức 
+Đây là bước quan trọng cho việc thiết kế bài giảng điện tử, là nét đặc trưng 
+cơ bản của bài giảng điện tử để phân biệt với các loại bài giảng truyền thống, 
+hoặc các loại bài giảng có sự hỗ trợ một phần của máy vi tính. Việc multimedia 
+hoá kiến thức được thực hiện qua các bước: 
++ Dữ liệu hoá thông tin kiến thức 
++ Phân loại kiến thức được khai thác dưới dạng văn bản, bản đồ, đồ hoạ, ảnh tĩnh, 
+phim, âm thanh... 
++ Tiến hành sưu tập hoặc xây dựng mới nguồn tư liệu sẽ sử dụng trong bài học. 
+Nguồn tư liệu này thường được lấy từ một phần mềm dạy học nào đó hoặc từ 
+internet, ... hoặc được xây dựng mới bằng đồ hoạ, bằng ảnh quét, ảnh chụp, quay 
+video, bằng các phần mềm đồ hoạ chuyên dụng như Macromedia Flash... 
++ Chọn lựa các phần mềm dạy học có sẵn cần dùng đến trong bài học để đặt liên kết. 
++ Xử lý các tư liệu thu được để nâng cao chất lượng về hình ảnh, âm thanh. Khi 
+sử dụng các đoạn phim, hình ảnh, âm thanh cần phải đảm bảo các yêu cầu về mặt 
+nội dung, phương pháp, thẩm mỹ và ý đồ sư phạm. - Xây dựng thư viện tư liệu 
+Sau khi có được đầy đủ tư liệu cần dùng cho bài giảng điện tử, phải tiến 
+hành sắp xếp tổ chức lại thành thư viện tư liệu, tức là tạo được cây thư mục hợp 
+lý. Cây thư mục hợp lý sẽ tạo điều kiện tìm kiếm thông tin nhanh chóng và giữ 
+được các liên kết trong bài giảng đến các tập tin âm thanh, video clip khi sao chép 
+bài giảng từ ổ đĩa nay sang ổ đĩa khác, từ máy này sang máy khác. - Lựa chọn ngôn ngữ hoặc các phần mềm trình diễn để xây dựng tiến trình 
+dạy học thông qua các hoạt động cụ thể 
+Sau khi đã có các thư viện tư liệu, giáo viên cần lựa chọn ngôn ngữ hoặc 
+các phầm mềm trình diễn thông dụng để tiến hành xây dựng giáo án điện tử. 
+Trước hết cần chia quá trình dạy học trong giờ lên lớp thành các hoạt động 
+nhận thức cụ thể. Dựa vào các hoạt động đó để định ra các slide (trong 
+PowerPoint) hoặc các trang trong Frontpage. Sau đó xây dựng nội dung cho các 
+12 
+trang (hoặc các slide). Tuỳ theo nội dung cụ thể mà thông tin trên mỗi trang/slide 
+có thể là văn bản, đồ hoạ, tranh ảnh, âm thanh, video clip... 
+Hiện nay để xây dựng bài giảng điện tử ta có thể áp dụng các phần mềm 
+căn bản sau: 
++ Microsoft PowerPoint 
++ Macromedia Flash 
++ Frontpage 
++ LectureMaker 
++…. - Chạy thử chương trình, sửa chữa và hoàn thiện. 
+Sau khi thiết kế xong, phải tiến hành chạy thử chương trình, kiểm tra các sai sót, 
+đặc biệt 
+3.4  Hiệu quả của giáo án điện tử 
+Việc sử dụng công nghệ hiện đại đòi hỏi người giáo viên phải có kỹ năng 
+thiết kế giáo án và sử dụng những phương pháp truyền đạt mới. Thay vì phấn 
+trắng bảng đen truyền thống, việc ứng dụng công nghệ thông tin làm cho bài 
+giảng được thực hiện một cách sinh động, gây hứng thú và phát huy được tính 
+tích cực của cả giáo viên và học sinh. Ứng dụng CNTT trong dạy học đã thực sự đi 
+vào các trường học. 
+Cái được lớn nhất ở mỗi tiết giảng bằng giáo án điện tử chính là mang lại 
+một lượng lớn kiến thức, hình ảnh trực quan sinh động được chuyển tải đến người 
+học. Việc thiết kế giáo án và giảng dạy trên máy tính bằng những hình ảnh tư 
+liệu, sơ đồ, lược đồ, đoạn phim minh hoạ giúp bài giảng thu hút được sự chú ý và 
+tạo hứng thú cho học sinh. Ví dụ tiết học kỹ thuật lái và thực hành lái xe … giáo 
+viên có thể sử dụng hình ảnh, phim tư liệu… để minh hoạ, chắc chắn sẽ tạo được 
+ấn tượng mạnh mẽ cho các học viên. Chính những điều này sẽ thổi một luồng gió 
+mới vào lớp học, vào nhiệt huyết nghề nghiệp của giáo viên và vào cả tinh thần 
+hăng say học tập của học viên để mang lại hiệu quả giáo dục cao. 
+4. Phương pháp hướng dẫn soạn bài giảng và thực hành lái xe ô tô. 
+4.1 Chuẩn bị bài giảng - 
+Tuỳ theo từng bài học cụ thế đê chuẩn bị phương tiện, đồ dùng dạy học 
+phù hợp với nội dung giáng dạy. công việc chuẩn bị bao gồm: 
+Xe ôtô phái đám báo yêu cầu kỹ thuật của xe tập lái. 
+13 
+- 
+Bãi tập, đường tập đủ kích thước và phù hợp với nội dung, chương trình giảng 
+dạy. - - - 
+Sa bàn trực quan cho từng bài học, bảng trình tự luyện tập của từng nội dung: 
+máy chiếu, video clip. băng hình các bài học thực hành lái ô tô; cọc chuẩn, đế 
+cọc, thước, dây... 
+Giáo án và đề cương bài giảng soạn theo quy định, tài liệu phát tay trước cho học 
+viên nghiên cứu. 
+Các dụng cụ thiết bị đảm bảo an toàn như chèn xe, lều tạm che mưa nắng và các 
+thiết bị phụ trợ khác phục vụ bài giảng. 
+Trình từ luyện tâp bài 
+(thao tác). 
+Số Nội dung thực hành Yêu cầu kỹ thuật Minh họa 
+TT    
+1 
+Thao tác   
+Thao tác   
+4.2 Hƣớng dẫn bài giảng 
+4.2.1 Hướng dẫn mở đầu: 
+Là phần hướng dẫn ban đầu khi chuyển sang một nội dung mới, một bài mới, 
+một thao tác mới và được tiến hành theo một trình tự sau : 
+a) Ổn định lớp - Ồn định trật tự, sắp xếp vị trí ngồi’ - Kiểm tra sĩ số lớp nếu có mặt đủuthì động viên, thông qua đó để giáo viên nhắc 
+nhở những vấn đề cần lưu ý, nhất là công tác an toàn trong học tập; - Kiểm tra bài học (nếu có), khi kiểm tra giáo viên phải nêu câu hỏi trước để học 
+viên suy nghĩ, sau đó yêu cầu học viên trả lời. Câu hỏi kiểm tra phải rõ và thuộc 
+phần kiến thức của bài học cũ. có liên quan đến bài học mới. Khi đánh giá phái 
+đúng mức và được thông báo ngay trước lớp, điều đó có tác dụng khuyến khích 
+học viên học tập tốt hơn 
+b) Giảng bài mới - Đặt vấn đề vào bài, tùy theo nội dumg của bài học mà chọn cách đặt vấn đề cho 
+hấp dần và phù hợp. 
++ Đặt vấn đẻ trực tiếp: Dùng nội dung kiến thức của bài học trước để làm cơ sở 
+dẫn dắt vào bài học mới. 
+14 
++ Đặt vấn đề gián tiếp : Cách này khó hơn cách trực tiếp nhưng lại hấp dẫn hơn, 
+thể hiện tính cần thiết của bài học đối với thực tiễn. Khi đặt vấn đề gián tiếp có 
+thế thông qua một lĩnh vực rương đồng trong thực tế để dẫn dắt vào bài học mới. - Nêu muc đích và yêu cầu bài học 
+Khi nói mục đích và yêu cầu cua bài phải nói chậm, có thể nhắc lại lần thứ 
+2 để học viên hiểu rõ mục đích và yêu cầu cùa bài cần nói rõ là khi học xong bài 
+học, người học phải củng cố được gì, hình thành kỹ năng nào mới và rèn luyện 
+phẩm chất gì. - Giáng nôi dung bài mới : 
+Hướng dẫn ]ý thuyết thực hành: Nêu rõ từng nội dung, từng thao tác của 
+bài để giảng giải, phân tích, mô tà bằng trực quan trên sa bàn và kết hợp với đàm 
+thoại...Khi giảng phải rõ làng, giảng đến đâu mô tả trực quan đến đó. nếu có phần 
+nào học viên chưa hiểu phải giảng lại ngay, sau đó chuyển sang nội dung khác. 
+Trong một số nội dung cụ thể giáo viên có thể kết hợp ngay với thực hiện 
+thao tác mẫu để chứng minh cho phần lý thuyết để học viên tiếp thu tốt hơn. 
++ Thực hiện thao tác mẫu (làm thị phạm). 
+Đây là nội dung quan trọng trong quá trình hướng dẫn của giáo viên, thao 
+tác mẫu phải đúng với phần lý thuyết đã giảng để cho học viên so sánh, từ đó 
+kiến thức sẽ được củng cố vững chắc, tạo tiền đề cho thực hành của học viên. Khi 
+thực hiện thao tác mẫu phải bố trí cho tất ca học viên tập trung ở vị trí thuận lợi 
+an toàn để quan sát rõ thao tác mẫu. 
+Thông thường việc thực hiện thao tác mẫu được tiến hành 03 lần đối với 
+những nội dung khó. Sau lần thực hiện mẫu thứ 3, giáo viên gọi sô học viên khá 
+giỏi lên thực hiện trước, giáo viên trực tiếp uốn nắn và giảng giải thêm. 
+Thao tác mẫu lần thứ nhất: Giáo viên thực hiện mẫu để học viên quan sát và tự 
+rút kinh nghiệm. 
+Thao tác mẫu lần thứ hai: Giáo viên thực hiện thật chậm, tỉ mỉ từng động tác đơn 
+lẻ, sau đó thực hiện ghép các động tác và phối hợp.  
+Trong khi làm mẫu phái kết hợp giảng giải, phân tích ngay tại chỗ từng 
+động tác. Tuỳ theo nội dung của bài học, ở từng vị trí cần thiết có thể dừng hẳn xe 
+lại để cho học viên quan sát kỹ kết hợp với giảng giải của giáo viên để học viên 
+rõ trước khi vào luyện tập. 
+Thao tác mẫu lần thứ ba: Lần thực hiện này giống như lần thứ nhất, giáo viên 
+thực hiện mẫu để cho học viên quan sát kỹ một lần nữa trước khi vào luyện tập. 
+4.2.2 Hướng dẫn thường xuyên: 
+15 
+Đây là giai đoạn quan trọng để hình thành kỹ năng nghề nghiệp của học 
+viên qua luyện tập và quan sát rút kinh nghiệm, ở giai đoạn này giáo viên có 
+nhiệm vụ điều hành việc luyện tập, chỉ dẫn cụ thể cho từng học viên trong luyện 
+tập, trực tiếp uốn nắn từng động tác, thao tác sai cho học viên ngay trên buồng lái. 
+Giáo viên phải thường xuyên quan sát theo dõi để phát hiện những sai sót của 
+từng học viên, từ đó phãn tích rõ nguyên nhân và đề ra biện pháp khắc phục kịp 
+thời. 
+Sau mỗi lần tập của học viên, giáo viên là người tổ chức rút kinh nghiệm 
+bằng cách gọi lần lượt từng học viên lên nhận xét, đánh giá. Giáo viên đưa ra 
+những nhận xét đánh giá từng học viên, qua đó sẽ giúp những lần tập tiếp theo tốt 
+hơn. 
+Tuỳ theo từng bài để bố trí số lần luyện tập cho phù hợp, mỗi lần tập không 
+nên tập ít quá cũng không nên quá nhiều. Nếu ít quá không có điều kiện để rút 
+kinh nghiệm và ngược lại nếu tập nhiều lần quá gây sự nhàm chán và mỏi mệt, 
+không quý trọng mỗi lần luyện tập, gây lãng phí thời gian và nhiên liệu. 
+Thông thường mỗi học viên tập từ 2 đến 3 lần trên một nội dung của bài 
+học, sau đó thực hiện đổi tập luân phiên cho đến học viên cuối cùng. Trong khi 
+tập số học viên còn lại phải tập trung ở vị trí phù hợp, để quan sát và tự rút kinh 
+nghiệm. 
+4.2.3 Hướng dẫn kết thúc : 
+Hướng dẫn kết thúc một bài thực hành lái xe được thực hiện theo trình tự như sau 
+: 
+Giáo viên tổng kết lại toàn bộ bài học, nhận xét đánh gía chung tình hình 
+của lớp, của tìm g học viên, biểu dương các người tích cực, nhắc nhở và chỉ rõ 
+những nhược điểm, nói rõ nguyên nhân và biện pháp khắc phục. 
+Kiểm tra đánh gia kết quả học tập của học viên khi kết thúc bài học, giáo 
+viên cho từng học viên thực hiện nội dung bài học theo yêu cầu đặt ra, kết quá 
+đánh giá bằng điểm số. 
+Kết thúc bài học, nên có câu hỏi về nhà cho học viên, câu hỏi phải rõ ràng 
+dễ hiểu, chọn lọc, đảm bảo vừa sức không quá dễ và quá khó, nội dung câu hỏi 
+nên có sự liên hệ, kế thừa giữa bài học cũ và bài học mới. 
+16 
+PHẦN 2: PHƢƠNG PHÁP HƢỚNG DẪN THỰC HÀNH LÁI XE Ô TÔ  
+I. Thao tác cơ bản  
+1. Giới thiệu các bộ phận chủ yếu của xe - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Trước khi vào bài học, giáo viên giới thiệu vị trí, tác dụng, cách sử dụng các 
+bộ phận chủ yếu trong buồng lái của xe ô tô: Khóa điện, đèn hiển thị trạng thái 
+(vị trí số: N, R, L, D đối với xe số tự động; đèn cảnh báo dầu bôi trơn động cơ; 
+đèn hiển thị hướng bật đèn báo rẽ; đèn báo nạp ắc quy; đèn báo phanh tay; đèn 
+báo cửa mở, đèn báo thắt dây an toàn…), đồng hồ hiển thị tốc độ, đồng hồ hiển 
+thị vòng quay động cơ, đồng hồ hiển thị mức nhiên liệu, đồng hồ hiển thị nhiệt 
+độ nước làm mát, các công tắc (công tắc đèn báo rẽ, công tắc đèn chiếu sáng 
+gần, công tắc đèn chiếu sáng xa, công tắc còi, công tắc gạt mưa, công tắc bật/tắt 
+hệ thống điều hòa nhiệt độ, công tắc điều chỉnh mức gió điều hòa…), chân ga, 
+chân phanh, chân đóng ngắt ly hợp hay còn được gọi là chân côn, gương chiếu 
+hậu, phanh tay, vô lăng lái, cần chuyển số, dây đai an toàn …        - Giáo viên vừa giới thiệu công dụng vừa thực hiện động tác sử dụng; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên giới thiệu các bộ phận của xe, công dụng và thực 
+hiện các thao tác sử dụng; 
+ Yêu cầu đạt được: học sinh nắm được vị trí, công dụng và biết cách sử dụng 
+các bộ phận chủ yếu của xe. 
+2. Kiểm tra xe trƣớc khi sử dụng: - Giáo cụ: tranh vẽ, chiếu slide, xe ô tô; - Giáo viên giới thiệu vị trí, tác dụng các bộ phận: mức nhiên liệu còn lại, 
+phanh tay, chân phanh, chân ga, lốp, đèn, bánh xe, gương, chân đóng mở ly hợp 
+(chân côn), các công tắc đèn, còi, công tắc đèn báo rẽ, dây đai an toàn... - Giáo viên thực hiện các động tác kiểm tra: giáo viên vừa giới thiệu bộ phận 
+vừa thực hiện các thao tác kiểm tra; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên giới thiệu các bộ phận của xe và thực hiện các 
+thao tác kiểm tra; - Giáo viên quan sát học viên và kịp thời uốn nắn, sửa chữa các thao tác sai của 
+học viên. 
+ Yêu cầu đạt được: học viên nắm được vị trí, công dụng và biết cách kiểm tra 
+các bộ phận của xe. 
+17 
+3. Lên, xuống xe ô tô - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên thực hiện thao tác lên xe: - Trước khi lên xe phải quan sát phía trước, phía sau, hai bên thành và gầm xe. 
+đứng chếch với hướng tiến của xe một góc 45° và cách bậc lên xuống 30-40 cm. 
+Tay trái mở khóa cửa xe và nắm vào nắp thành cửa, tay phải nắm vào thành 
+buồng lái phía sau. chân trái bước lên bậc lên xuống. Dùng lực của hai tay kéo 
+người đứng lên bậc lên xuống, đưa chân phải vào buồng lái, đặt 2/3 bàn chân lên 
+bàn đạp chân ga. Xoay người ngồi vào đệm lái. Đưa chân trái vào buồng lái đặt 
+dưới bàn đạp ly hợp. Tay trái đóng cửa xe chắc chắn và chuyển về vị trí nắm 
+thành tay lái. - Giáo viên thực hiện thao tác xuống xe:  - Trước khi xuống xe phai quan sát phía trước, phía sau và hai bên thành xe nếu 
+thấy an toàn mới được xuống. Đưa tay trái mở khoá và đẩy cánh cửa, đưa chân 
+trái xuống bậc lên xuống, tay trái nắm vào thành cửa xe, xoay người đưa chân 
+phải ra khỏi buông lái đặt xuống đất, đồng thời hai tay rời khỏi buồng lái. dùng 
+tay trái đóng cửa xe chắc chắn. - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. - Yêu cầu đạt được: học viên nắm được trình tự thực hiện các động tác và thao 
+tác thành thạo. 
+4. Tƣ thế ngồi lái xe - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Tư thế ngồi lái có ảnh hưởng đến sức khoẻ, thao tác và năng suất lao động của 
+người lái xe. Do đó, ngồi lái phái thoải mái, 2/3 lưng tựa vào đệm lái, hai lay 
+cầm hai bên vành tay lái, mắt nhìn thẳng về phía trước, hai chân mở tự nhiên. 
+Người ngồi lái sao cho chân đạp hết hành trình bàn đạp ly hợp, bàn đạp phanh 
+còn dư lực. - Giáo viên giới thiệu các vị trí cần điều chỉnh ghế ngồi lái và thực hiện thao tác 
+điều chỉnh ghế ngồi lái xe sao cho tư thế ngồi lái thoải mái, ổn định, hai tay cầm 
+hai bên vành vô lăng lái, mắt nhìn thẳng, vai, khủy tay, bàn  tay, đầu gối, bàn 
+chân … - Giáo viên giới thiệu đai an toàn, các thao tác sử dụng đai an toàn; 
+18 
+- Giáo viên giới thiệu gương chiếu hậu, cách điều chỉnh gương chiếu hậu; -  Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. 
+ Yêu cầu đạt được: học viên nắm được vị trí, ngồi đúng tư thế khi lái xe thực 
+hiện các thao tác thoải mái, chính xác. 
+5. Điều khiển vô lăng lái - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên giới thiệu về vô lăng lái, cách nắm vô lăng, cách đánh, trả lái: 
+a - Cách cắm vành tay lái :  
+Hai tay nắm vào bên phải và bên trái của vành tay lái. Nếu xem vành lay 
+lái như mặt số của đổng hồ thì tay trái nắm vào vị trí từ 9-10 giờ, tay phải nắm 
+vào vị trí từ 3-4 giờ, 4 ngón tay ôm vào vành tay lái, ngón tay cái đặt dọc theo 
+tâm vành tay lái. 
+Khi cầm vành tay lái, tuỳ theo vị trí đặt góc nghiêng của vành tay lái để 
+cầm cho phù hợp với từng loại xe. 
+b - Cách lấy và trả lái: 
+Khi muốn cho xe chuyển sang hướng nào thì lấy tay lái sang hướng đó, lấy 
+lái nhiều hay ít tuỳ thuộc vào yêu cầu. Khi xe đã chuyển hướng đúng phải trả lại 
+tay lái để ổn định hướng chuyển động của xe. 
+Muốn lấy lái sang phải : Tay phái kéo, tay trái đẩy vành tay lái theo chiều 
+kim đồng hồ. Khi tay phải chạm sườn, nếu lấy lái tiếp thì nói lỏng tay phải vuốt 
+xuống dưới đồng thời rời tay phải nắm vào vị trí 9-11 giờ, tay trái tiếp tục đẩy 
+vành tay lái xuống dưới (vị trí 5-6 giờ), rời tay trái cầm vào vị trí 9-10 giờ. 
+Muốn lấy lái sang bên trái: Tay trái kéo, tay phải đẩy vành tay lái quay 
+ngược chiều kim đồng hồ, khi tay trái chạm sườn nếu lấy lái tiếp thì nới lỏng tay 
+trái vuốt xuống phía dưới (6-7 giờ), rời lay lái nắm vào vị trí 1-3 giờ. 
+Khi vào đường vòng gấp cần lấy nhiều lái thì các động tác thực hiện lặp lại 
+như ở phần trên. Khi thấy xe đã chuyển động đúng hướng phải trả lại lái theo 
+hướng ngược lại chiều lấy lái để cho xe chuyển động đúng hướng. - Giáo viên thực hiện các động tác điều khiển vô lăng; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. - Yêu cầu đạt được: học viên nắm được cách nắm vô lăng, cách đánh, trả lái. 
+19 
+6. Điều khiển bàn đạp ly hợp (bàn đạp côn) 
+Ly hợp trên ô tô là loại ly hợp thường đóng để nối động lực từ động cơ đến 
+hộp số. Khi đạp ly hợp, động lực từ động cơ truyền đến hộp số bị ngắt để tăng 
+hoặc giảm sô dễ dàng, êm dịu. - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên giới thiệu về bàn đạp ly hợp, cách đạp, giữ, nhả bàn đạp ly hợp; 
+a.  Đạp ly hợp 
+Khi đạp ly hợp, hai tay nắm vành tay lái, người ngồi thẳng, mắt nhìn thẳng 
+về phía trước, đưa mũi bàn chân lên bàn đạp ly hợp, gót châu tỳ lên sàn xe làm 
+điểm tựa, dùng lực mũi bàn chân đạp bàn đạp ly hợp xuống sát sàn xe. Tốc độ tác 
+động vào bàn đạp ly hợp nhanh hay châm tuỳ theo từng tình huống và quyết định 
+nhưng phải đạp dứt khoát. 
+b. Nhả ly hợp. 
+Nhả bàn đạp ly hợp là nối động lực từ động cơ đến hệ thống truyền lực. Để 
+động cơ không bị chết hay xe chuyển động không lung giật, khi nhả bàn đạp ly 
+họp phái thực hiện hai giai đoạn: Giai đoạn đầu nhả nhanh khoảng 2/3 hành trình 
+giai đoạn sau khoảng 1/3 hành trình, ly hợp phải nhả từ từ, để lò so ép đẩy mãm 
+ép, kéo đĩa ma sát của ly hợp tiếp xúc từ từ với bánh đà. - Giáo viên thực hiện các động tác điều khiển bàn đạp ly hợp;  - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. - Yêu cầu đạt được: học viên nắm được cách đạp, giữ, trả bàn đạp ly hợp. 
+7. Điều khiển cần số 
+Điều khiển cần số là thay đổi vị trí ăn khớp của các bánh răng trong hộp số, 
+thay đổi tỷ số truyền từ động cơ xuống cầu chủ động cho phù hợp với lực cản của 
+đường. - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên giới thiệu về một số kiểu bố trí số của một số loại xe ( kể cả xe 
+trang bị số tự động); 
+a. Đối với xe ô tô trang bị hộp số cơ khí 
+Khi điều khiển cần số dùng tay phải, đặt lòng bàn tay nắm gọn núm cán số. 
+Tuỳ theo từng vị trí cửa số, dùng lực của cánh tay phải đưa cần số vào vị trí thích 
+hợp. 
+b. Đối với xe ô tô trang bị hộp số thủy – cơ (hộp số tự động) 
+20 
+Trên loại xe này không có bàn đạp ly hợp. Hệ thống điều khiển sẽ tự động 
+đóng ngắt ly hợp và chuyển số. Chỉ khi tiến, lùi, leo dốc, dừng xe mới cần thao 
+tác chuyển số của người lái xe.   - Giáo viên thực hiện thao tác điều khiển cần số; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. - Yêu cầu đạt được: học viên nắm được vị trí số và cách chuyển số. 
+8. Điều khiển bàn đạp chân ga 
+Điều khiển bàn đạp ga nhằm duy trì hoặc thay đổi tốc độ chuyển động của 
+ô tô cho phù hợp với tình trạng đường giao thông thực tế. - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên giới thiệu về chân ga và phương pháp sử dụng chân ga; 
++ Động tác đặt chân lên bàn đạp chân ga 
+Đặt 2/3 bàn chăn phái lên bàn đạp chân ga, gót chãn tỳ lên sàn xe làm điểm 
+tựa. 
++ Ga để cho xe nổ máy (chạy không tải) 
+Là điều khiển chân ga để động cơ hoạt động ở tốc độ trục khuỷu quay nhỏ 
+nhất lúc xe dừng. Khi tăng ga, dùng mũi bàn chãn ấn bàn đạp ga xuống, hành 
+trình bàn đạp ga nhiều hay ít phụ thuộc vào yêu cầu của từng loại động cơ. Khi 
+giảm ga, từ từ nhấc mũi bàn chân giảm lực tỳ vào bàn đạp ga, lò so hồi vị kéo bàn 
+đạp ga về vị trí ban đầu. 
++ Ga cho xe chuyển bánh 
+Khi xe đang đỗ hoặc, tải trọng lớn thì lực cản đường lớn. Vì vậy, để xe 
+chuyển động phải có lực lớn để thắng lực cản. Nếu tải trọng của xe càng lớn thì 
+ga nhiều và ngược lại. Nếu đường tốt hay xuống dốc thì ga ít, nếu đường xấu, mặt 
+đường gồ ghề, trơn lầy hoặc lên dốc thì ga nhiều hơn để tạo ra lực kéo thắng được 
+lực cản đường. 
++ Ga để xe tăng tốc độ 
+Muốn tăng tốc độ, chăn ga phải đạp xuống từ từ để cho tốc độ quay của 
+động cơ tăng đều và tốc độ của xe cũng tăng lên. Khi tăng tốc độ của xe không 
+được tăng ga đột ngột. 
++ Ga để về số 
+Muốn giảm số được dễ dàng, không kêu kẹt, thì các bánh răng ăn khớp 
+trong hộp sổ phải quay với tốc độ tương ứng với nhau. Khi giảm từ số cao về số 
+21 
+thấp, do quán tính của xe nên tốc độ phần gầm lớn, trục thứ cấp trong hộp số 
+quay nhanh. Vì vậy, nếu gài vào số thấp hơn thì vào số khó hoặc kêu kẹt nên phải 
+tăng tốc độ quay của động cơ để tốc độ quay của trục sơ cấp và trục thứ cấp đồng 
+tốc độ. 
+Khi ga, cần số ở vị trí số 0, nhả ly hợp, tác dụng nhanh mũi bàn chân vào 
+chân ga, sau đó nhấc lên ngay. Hành trình bàn đạp ga nhiều hay ít tuỳ theo tốc độ 
+của xe và số chuyển đổi về cao hay thấp. - Giáo viên thực hiện thao tác điều khiển bàn đạp chân ga; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. - Yêu cầu đạt được: học viên nắm được cách sử dụng chân ga, ga đều không bị 
+giật đột ngột. 
+9. Điều khiển bàn đạp chân phanh 
+Điều khiển bàn đạp ga nhằm duy trì hoặc thay đổi tốc độ chuyển động của 
+ô tô cho phù hợp với tình trạng đường giao thông thực tế. - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên giới thiệu về chân ga và phương pháp sử dụng chân ga; 
++ Đặt chân lên bàn đạp. 
+Khi phanh, dùng chân phái đạp phanh. Đặt 2/3 bàn chân lên bàn đạp, gót 
+chân tỳ lên sàn xe làm điểm tựa, như vậy khi phanh sẽ chính xác và linh hoạt. 
++ Khi phanh xe 
+Phanh xe có hai loại : Phanh dầu và phanh hơi 
+Đối với phanh hơi : Khi phanh, đạp phanh từ từ đến khi phanh có hiệu lực 
+theo ý muôn. 
+Đối với phanh dầu : Khi đạp phanh nên đạp hai lần, lần thứ nhất đạp 2/3 
+hành trình rồi nhả bàn đạp ra, lần thứ hai đạp xuống cho đến khi phanh có hiệu 
+lực theo ý muốn. 
++ Khi nhả phanh. 
+Sau khi phanh xe, khi không có nhu cáu phải nhanh chóng nhấc chân khỏi 
+bàn đạp phanh để chuyển vẻ bàn đạp chân ga. 
+ Phương pháp sử dụng phanh tay. 
+22 
+Phanh tay có tác dụng hãm cho xe không bị trôi tụt khi xe đỗ, dừng ở trên 
+đường và trên dốc. Ngoài ra, phanh tay còn hỗ trợ cho phanh chân trong các 
+trường hợp cần thiết để rút ngắn quãng đường phanh. 
++  Khi kéo phanh tay. 
+Khi có nhu cầu sử dụng phanh tay: dùng lực cánh tay phải để kéo. 
++ Khi nhả phanh tay. 
+Khi không có nhu cầu sử dụng phanh tay phải nhả phanh tay, dùng lực tay 
+phải bóp khoá hãm đẩy tay phanh vẻ phía trước hết hành trình. - Giáo viên thực hiện thao tác điều khiển bàn đạp chân phanh và tay kéo phanh 
+tay; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. - Yêu cầu đạt được: học viên nắm được cách sử dụng chân phanh, phanh đều 
+không bị giật đột ngột. 
+10.  Thao tác tăng, giảm số 
+Muốn tăng tốc độ của xe, ngoài việc tăng ga phái kết hợp tăng số phù hợp với 
+điều kiện mặt đường để đạt tốc độ của xe theo ý muốn và tiết kiệm nhiên liệu. - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên giới thiệu về cần số, các vị trí số và thực hiện các thao tác chuyển 
+số; - Tăng số. 
++ Tăng số đường bằng. 
+Khi tăng số. phải tăng ga để tăng tốc độ của xe (lấy đà) đến tốc độ thấp 
+nhất của số cần tăng- nhả bàn đạp chân ga - đạp bàn đạp ly hợp - đưa cần số về vị 
+trí số 0 và dịch chuyển cần số tới cửa số cần tăng - nhả nhanh bàn đạp ly hợp rồi 
+đạp tiếp lần thứ hai - tay phải nhanh chóng đưa cần số gài vào vị trí số cần tăng – 
+nhả ly hợp đúng thao tác và tiếp tục tăng ga lấy đà để tăng số tiếp cao hơn. Quá 
+trình tăng số được lặp lại như trên đến khi tăng được đến số phù hợp theo yêu 
+cầu. 
++ Tăng số đường lên dốc. 
+Thực hiện thao tác lương tự như ở đường bằng, khác là khi tăng số trên 
+đường lên dốc cần lưu ý: Lấy đà dài hơn, thao tác nhanh nhẹn hơn để xe không bị 
+mất đà, chết máy, trôi tụt dốc sẽ nguy hiểm, đặc biệt đối với đoạn đường có độ 
+dốc cao, xe có tải nặng. 
+23 
++ Tăng số đường xuống dốc. 
+Thao tác tương tự như ở đường bằng nhưng cần lưu ý lợi dụng đà quán tính 
+của xe khi xuống dốc để lấy đà ít hơn đường bằng, nếu đà xe đã phù hợp không 
+cần lấy đà mà tăng số ngay. Trường hợp đặc biệt, ở đoạn đường có độ dốc lớn, 
+trên xe có tải nặng muốn tăng số không phải lấy đà mà còn phải đệm phanh cho 
+xe giảm bớt tốc độ mới tăng số. - Thao tác giảm số. 
+Khi xe đang chạy ở bất kỳ số nào (trừ số 1) nếu có hiện tượng tốc độ của 
+xe giảm, tiếng máy yếu đi do điều kiện đường xá hoặc vì điều kiện an toàn phải 
+phanh xe thì phải giám số để tăng lực kéo ở bánh xe chủ động. Trình tự giảm số 
+thực hiện như sau: 
++ Giảm số đường bằng. 
+Trước hết phải giảm ga - đạp ly hợp - đưa cần số về vị trí số 0 — nhả ly 
+hợp tăng ga đột ngột (vù ga) - đạp ly hợp lần thứ hai - đưa cần số gài về vị trí số 
+thấp hơn - nhả ly hợp - từ từ tăng ga cho xe chạy. Nếu cần giảm số tiếp thì thực 
+hiện theo trình tự trên. 
++ Giảm số đường lên dốc. 
+Phương pháp giảm số thực hiện tương tự như ở đường bằng nhưng cần lưu 
+ý: Khi lên dốc, lực cản của mặt đường lớn, xe dễ bị mất đà, máy yếu.Vì vậy, 
+muốn giảm số đường lên dốc không được nhả hết chân ga khi giảm tốc độ mà 
+phải giữ ga ở một mức độ nhất định, thực hiện thao tác phải nhanh nhẹn, chính 
+xác. Trường hợp đặc biệt, trên những đoạn đường có tốc độ dốc cao, xe có tải 
+trọng lớn khi lên dốc nếu thấy có hiện tượng động cơ yếu thì phải thực hiện giảm 
+số ngay để xe không bị mất đà. 
++ Giảm số đường xuống dốc. 
+Khi xuống dốc lực quán tính của xe lớn, khi giảm số xuống dốc muốn giảm 
+tốc độ của xe nếu chỉ nhả hết chân ga thì tốc độ của xe, không giảm được mà phải 
+đệm phanh để giảm tốc độ. Quy trình giảm số xuống dốc được thực hiện theo 
+trình tự: Đệm phanh cho tốc độ của xe chậm lại theo ý muốn và giữ nguyên chân 
+phanh- đạp ly hợp - đưa cần sô về vị trí số 0 và dịch chuyển ngay đến cửa số cần 
+giảm - nhả ly hợp - rời chân phanh chuyển sang vù ga - nhả nhanh chân ga - đạp 
+ly hợp - đưa cần số gài vào vị trí sô thấp hơn - nhả ly hợp đúng thao tác. Muốn 
+giảm số thấp hơn thì thao tác được lặp lại như trên. - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. 
+24 
+- Yêu cầu đạt được: học viên nắm được cách sử dụng cần số, nhớ được vị trí số, 
+phối hợp chân ga, chân ly hợp. 
+11. Khởi hành, dừng xe - Giáo cụ: tranh vẽ, chiếu slide, mô hình buồng lái xe ô tô, xe ô tô; - Giáo viên giới thiệu quy trình thực hiện khởi hành xe, dừng xe: - Khởi hành xe 
++ Khởi hành xe trên đường bằng 
+Để đảm bảo an toàn trước khi cho xe chuyển bánh, người lái xe phải quan 
+sát xung quanh xe, gầm xe nếu thấy an loàn mới lên xe và cho xe chuyển bánh. 
+Muốn khởi hành xe êm dịu, không chết máy phải phối hợp nhịp nhàng giữa ly 
+hợp, ga, phanh tay. Khi khởi hành thực hiện theo trình tự sau: Khởi động động cơ - đạp ly hợp hết hành trình - Đưa cần số gài vào vị trí số 1 - ra tín hiệu khởi hành – quan sát phía trước – quan sát gương chiếu hậu - nhả phanh tay - tăng ga: - nhả 
+ly hợp đúng thao tác. Khi xe đã chuyển bánh phải nhả hết ly hợp để tránh các đĩa 
+ma sát bị mòn. 
++ Khởi hành xe đường lên dốc 
+Nếu khởi hành xe ở đường lên dốc như khởi hành xe trên đường bằng thì 
+xe có thể bị trôi tụt dốc hoặc chết máy, rung giật xe. Vì vậy phải thực hiện theo 
+trình tự sau: Đạp ly hợp - gài vào số 1 - ra tín hiệu khởi hành – quan sát phía 
+trước – quan sát gương chiếu hậu - tăng ga - nhả ly hợp đến tầm tiếp giáp, giữ 
+nguyên chân ly hợp - nhả hết phanh tay - từ từ nhả hết ly hợp và tăng ga lấy đà để 
+tăng số. 
++ Khởi hành xe đường xuống dốc 
+Thực hiện thao tác tương tự như khởi hành xe đường bằng chỉ khác là 
+không phải tăng ga. chỉ nhả ly hợp để tận dụng đà quán tính của xe khi xuống 
+dốc. - Dừng xe 
++ Dừng xe bình thường 
+Khi xe đang chạy trên đường muốn dừng xe, trước hết phải quan sát gương 
+chiếu hậu, bật đèn tín hiệu xin đường, khi đã an toàn thì giảm tốc độ của xe bằng 
+cách nhả hết chân ga, đệm phanh và giảm số về số thấp theo thứ tự. Khi đã giảm 
+về số 3 đối với xe có 5 số tiến trở lên và về đến số 2 đối với xe có 4 số tiến thì ra 
+hiệu dừng xe (còi, đèn, tay) lái xe về phần đường bên phải và giảm ga để xe chạy 
+chậm lại - Giảm về số 2 đối với xe 5 số hoặc số1 đối với xe 4 số - Đạp phanh 
+chân khi xe gần dừng đạp ly hợp - đạp phanh cho xe dừng lại - kéo chặt phanh tay - ra sô 0 - nhả ly hợp - nhả phanh chân - tắt máy - gài vào số thấp. 
+25 
++ Dừng xe đột xuất. 
+Khi muốn dừng xe đột xuất trên đường vì lý do nào đó thì thực hiện dừng 
+xe theo trình tự : 
+Ra tín hiều dừng xe đồng thời đệm phanh cho xe giảm hẳn tốc độ - nhanh 
+chóng đạp ly hợp đồng thời đệm phanh cho xe từ từ dừng lại - Khi xe đã dừng 
+hẳn kéo chặt phanh tay - ra số không - nhả ly hợp - nhả phanh chán - tắr máy - gài 
+vào số thấp. Trường hợp đặc biệt, gặp các tình huống bất ngờ ngay ở phía trước 
+đầu xe mà đoạn đường còn lại ngắn thì phái đạp phanh cấp tốc đồng thời kéo 
+phanh tay hỗ trợ để rút ngắn quãng đường phanh nhằm đảm bảo an toàn, bật đèn 
+tín hiệu khẩn cấp để báo hiệu. - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác, quan sát các học viên thực 
+hiện thao tác và kịp thời uốn nắn, sửa chữa các thao tác sai của học viên. - Yêu cầu đạt được: học viên nắm được cách sử dụng cần số, nhớ được vị trí số, 
+phối hợp chân ga, chân ly hợp. 
+II. Kỹ năng lái xe cơ bản 
+1. Lái xe trên bãi phẳng 
+Bãi phẳng là một bãi rộng và phẳng cho phép người điều khiển xe ô tô 
+luyện tập tăng, giảm tốc độ xe, điều khiển hướng đi của xe, gồm : Đi thẳng, vòng 
+trái, vòng phải, giúp cho người điều khiển xe làm quen với cách căn đường, cách 
+xác định mặt đường trước khi điều khiển xe trên đường. - Giáo cụ: xe ô tô, sân tập lái; - Giáo viên dùng xe tập lái thực hiện các thao tác lái xe trên bãi phẳng; 
++ Điều khiển xe đi thẳng 
+Muốn điều khiển xe đi thẳng, trước hết phải xác định được một đường 
+thẳng làm tâm đường tưởng tượng, điều khiển xe sao cho tâm vành tay lái - một 
+điểm giữa thân người ngồi lái (hàng cúc áo giữa ngực người lái) và một điểm trên 
+đường tưởng tượng chiếu ra phía trước hợp thành một đường thẳng luôn trùng 
+hoặc song song với đường tâm của đường đã xác định. 
+Cách điều khiển xe chuyển hướng đi 
++ Điều khiển xe chuyển hướng sang phải : 
+Trước khi cho xe vòng bên phải phải quan sát chướng ngại vật, dùng tín 
+hiệu xin đường, nếu thấy an toàn mới cho xe thay đổi hướng. Khi điều khiển xe 
+chuyển hướng sang phải, tay phải kéo, tay trái đẩy vành tay lái quay théo chiều 
+26 
+kim đồng hồ đến khi xe chuyển động đúng phần đường đã định thì từ từ trả lái và 
+giữ ổn định cho xe chuyển động theo hướng đi. 
++ Điều khiển xe chuyển hướng sang trái : 
+Tay trái kéo, tay phải đẩy vành tay lái quay ngược chiều kim đồng hồ, khi 
+xe đã đi vào đúng phẩn đường thì từ từ trả lại tay lái và giữ ổn định cho xe 
+chuyển động theo hướng đi. Khi điều khiển xe thay đổi hướng không nên đổi số. - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện các thao tác lái xe trên bãi phẳng; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+ Yêu cầu đạt: học viên nắm được các thao tác sử dụng: ga, bàn đạp ly hợp, 
+phanh và thực hiện được các thao tác. 
+2. Lái xe trên đƣờng bằng 
+a. Phương pháp căn đường 
+Để đảm bảo an toàn trong quá trình xe hoạt động trên đường, thì ngoài các 
+yếu tố như tình trạng kỹ thuật xe, chất lượng đường sá, yếu tố thời tiết, đòi hỏi 
+người lái xe phải có phương pháp điều khiển xe đi chính xác trên các loại đường. 
+Để đáp ứng được yêu cầu trên, đòi hỏi người lái xe phải biết phương pháp căn 
+đường để xác định được vị trí và đường đi của xe. Căn đường là phương pháp xác 
+định vị trí và đường đi của xe trên đường. - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái giới thiệu 
+các mốc để xác định tim đường; 
++ Xác định mặt đường: Làm cơ sở để xác định tim đường. 
+Đường đã trải nhựa hoặc bê tông: Mặt đường được xác định là toàn bộ 
+phần được trái nhựa hoặc bê tông tính theo chiều rộng cuả đường. 
+Đường cấp phối : Mặt đường được xác định là toàn bộ phần cấp phối tính 
+theo chiếu rộng của đường. 
++ Xác định tim đường: Làm cơ sở để căn đường 
+Mặt đương đã có sẵn vạch kẻ : Trục tim đường được xác định là vạch kẻ 
+đường là những vạch dọc liền hoặc vạch dọc đứt quãng ở giữa mặt đường. 
+Mặt đường chưa có vạch kẻ : Trục tim đường là đường tưởng tượng do 
+người lái xe tưởng tượng chia đôi mặt đường làm hai phần bằng nhau. - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái giới thiệu 
+các mốc để căn đường; 
+27 
++ Phương pháp chung: Cách căn đường chủ yếu là căn cứ vào khoảng cách từ vị 
+trí của người ngồi lái tới một điểm chuẩn trên mặt đường, điểm chuẩn ấy là điểm 
+thuộc đường thẳng đi qua tim đường. Trong quá trình xe chuyển động, điểm 
+chuẩn ấy luôn di chuyển phụ thuộc vào tốc độ và hướng chuyển động của xe. 
++ Cách xác định vị trí của xe đi trên đường. 
+Xe đi ở phần đường bên phải: Điểm căn là vị trí của người lái chiếu xuống 
+mặt đường lệch sang bên phái tim đường là xe đang đi sang phần đường bên phải, 
+nếu vị trí người lái càng cách xa trục tim đường về bên phải thì xe càng đi sang 
+phần đường bên phải nhiều hơn. 
+Xe đi ở giữa đường: Điểm căn là vị trí của người lái lệch sang bên trái tim 
+đường và cách bên trái tim đường từ 35- 45 cm. Nếu người lái thấy vị trí ngồi 
+ngay sát với tim đường là xe đang đi ở gần đúng giữa đường. 
+Xe đi sang phần đường bên trái: Điểm căn là vị trí của người lái lệch hẳn 
+sang bên trái tim đường và cách tim đường > 0,45cm. Nếu người lái càng cách xa 
+trục đường về phía bên trái thì xe càng đi sang phần đường bên trái nhiều hơn. 
++ Cách xác định hướng chuyển động của xe trên đường. 
+Xe đi song song với hướng đường: Quỹ đạo vị trí của người lái chiếu 
+xuống đường tạo thành một đường thẳng song song với hướng đường. Khi đó 
+người lái chỉ việc giữ tay lái ổn định trong độ dơ cho phép, xe sẽ đi song song với 
+hướng đường (hình la). 
+Hình 1a                                                    
+ Hình 1b - Xe đi chệch ra khỏi hướng đường: Quỹ đạo vị trí của người lái chiếu 
+xuống đường hợp thành với trục tim đường một góc. Khi đó xe có chiều hướng đi 
+ra lề đường (hình 1b). Người lái xe phải điều chỉnh lại hướng chuyển động của xe 
+28 
+bằng cách điều chỉnh tay lái cho hướng chuyển động của xe song song với hướng 
+đường, điều chỉnh xong phải trả lại tay lái để xe chuyển động ổn định theo hướng 
+vừa điều chỉnh. - Giáo viên sử dụng xe ô tô thực hiện các thao tác căn đường, lấy trả lái; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác căn đường, lấy trả 
+lái; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+ Yêu cầu đạt được: học viên nắm được phương pháp căn đường, lấy, trả lái. 
+b. Phương pháp lái xe tránh nhau - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái để hướng dẫn 
+phương pháp lái xe tránh nhau; 
++ Khi hai xe đi ngược chiều còn cách nhau tối thiểu từ 100 - 200m, cả hai xe đều 
+phải giảm tốc độ. Khi hai xe tránh nhau, người lái xe phải chia đường làm hai 
+phần và điều khiển xe đi đúng phần đường của mình. Trên phần đường tưởng 
+tượng của xe mình, chia làm 3 phần bằng nhau, điểm căn từ tâm người lái chiếu 
+với tâm vành tay lái xuống đường trùng với đường phân chia 1/3 thứ nhất tính từ 
+tim đường ra (hình 2) 
++ Khi hai xe tránh nhau trên đường hẹp 
+Hai xe tránh nhau trên mặt đường hẹp, trước hết hai xe đều phải giảm tốc 
+độ, bên nào thấy mặt đường phía xe mình rộng nên chủ động dừng xe trước, 
+không nên cố đi vào đường hẹp gây cản trở giao thông. Xe đi về phía sườn núi 
+nên đỗ trước giái phóng mặt đường, nếu không có phụ xe, sau khi tắt máy phải 
+xuống chèn xe lại và làm hiệu cho xe kia căn đường đi qua. 
+Khi sắp tránh nhau và đang tránh nhau không nên đổi số, hai tay cầm vững 
+tay lái và điểu khiển cho xe đi chính xác. Khi đỗ xe nhường đường phải đỗ ngay 
+ngắn, không nên đỗ chếnh đầu hoặc thùng xe ra ngoài. 
+29 
+(Hình 2) 
++ Tránh ổ gà và các chướng ngại vật trên đường. 
+Căn cứ vào vết bánh xe tnrớc bên trái và vị trí người lái, căn cứ vào vị trí 
+của người lái là phía trong của lốp trước bên trái, nếu lấy tâm người lái chiếu 
+thẳng tâm của vành tay lái xuống mặt đường là cách vết bánh xe trước bên trái 
+10-15cm (hình 3) 
+10-15 cm 
+Vết bánh xe trước 
+( Hình 3) - Giáo viên sử dụng xe ô tô thực hiện các thao tác tránh nhau, tránh chướng 
+ngại vật trên đường; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác tránh nhau; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+ Yêu cầu đạt được: học viên nắm được phương pháp tránh nhau, đặc biệt là 
+tránh nhau trên đường hẹp. 
+3. Lái xe trên đƣờng trung du, đèo núi 
+30 
+Đường trung du đèo núi so với đường bằng thì mặt đường thường nhỏ hẹp, 
+dốc cao, đường chênh vênh mấp mô, suối sâu, đường quanh co vòng vèo. Người 
+lái xe trên đường trung du đèo núi phải xử trí nhiều. Do điều kiện tầm nhìn hạn 
+chế, đòi hỏi người lái xe phải xử trí tay lái, chân ga, tay số, phanh cho thật chính 
+xác, linh hoạt và kịp thời mới đảm bảo an toàn. 
+a. Lái xe lên dốc - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái hướng dẫn 
+học viên cách phối hợp chân ga, chân ly hợp, phanh tay, vị trí số để thực hiện lái 
+xe lên dốc; 
+Khi lái xe lên dốc, phải chú ý phối hợp tốt phanh tay, ly hợp, chân ga. Nếu 
+nhả hết ly hợp mà phanh chậm nhả sẽ bị chết máy, nếu nhả phanh tay sớm quá 
+mà ly hợp nhả chậm chưa tới tầm tiếp giáp xe sẽ bị trôi phải hãm xe và cho 
+chuyển bánh lại, xe đang lên dốc bị chết máy phải dùng phanh chân, phanh tay để 
+hãm và không được đạp ly hợp trước. 
+Khi đường lên dốc ngắn, độ dốc thấp, mặt đường rộng và bằng phẳng có 
+thể lợi dụng đà quán tính và tăng ga để vượt dốc, khi thấy động lực yếu, đà xe 
+giảm phải giảm số, cần thiết có thê về tắt sô để xe không bị mất đà, không chết 
+máy. 
+Tăng số lên dốc phải lấy đà nhiều, giảm số sớm, phối hợp nhả ly hợp với 
+tiếp ga kịp thời, nhanh mới giữ được đà xe. 
+Khi gần tới đỉnh dốc nên giảm ga (lợi dụng quán tính cho vượt qua đỉnh 
+dốc và hạn chế bớt tốc độ trước khi xe xuống dốc) điều khiển xe đi về phần 
+đường bên phải và báo hiệu bằng đèn, còi, chú ý có người và xe bên kia dốc đang 
+đi lên. 
+Trên đoạn đường liên tiếp xuống và lên dốc, tuỳ theo địa hình mà khống 
+chế tốc độ và lợi dụng đà xe khi xuống đến lưng chừng dốc, nhả phanh và có thể 
+thêm ga cho xe lên dốc tiếp theo. 
+Hạn chế đỗ xe trên đưòng dốc, khi cần đỗ phải phát tín hiệu, giảm về số 
+thấp, lái xe sát về lề đường bên phải, nhả ga, đệm phanh cho xe chậm lại, khi xe 
+gần đứng mới đạp ly hợp, đạp phanh chân, kéo chặt phanh tay, tắt máy, gài số 1 
+và chèn xe chắc chắn. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe lên dốc; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe; 
+31 
+- Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+ Yêu cầu đạt được: học viên nắm được phương pháp phối hợp côn, ga, số, 
+phanh chân và phanh tay. 
+b. Lái xe xuống dốc - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái hướng dẫn 
+học viên cách phối hợp chân ga, chân ly hợp, phanh tay, vị trí số để thực hiện lái 
+xe xuống dốc; 
+Trước khi xuống dốc nên đạp thử phanh và quá trình xuống dốc dùng 
+phanh để khống chế tốc độ, kết hợp với sức cản của động cơ và lực ma sát của 
+mặt đường. Nếu độ dốc thấp, có thể dùng số cao ga nhẹ; nếu độ dốc cao, hàng 
+nặng dùng số thấp hoặc trung bình để phanh bằng động cơ và kết hợp phanh chân 
+để khống chế tốc độ. Thông thường xuống dốc đi số cao hơn một cấp so với khi 
+lên. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe xuống dốc; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe xuống dốc; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+ Yêu cầu đạt được: học viên nắm được phương pháp phối hợp côn, ga, số, 
+phanh chân và phanh tay. 
+c. Lái xe trên đường vòng 
+Khi chạy trên đường vòng, các bánh xe trục trước và trục sau ở cùng một 
+phía không trùng vệt mà có một độ lệch nhất định. Độ lệch này phụ thuộc vào 
+góc lái và khoảng cách giữa hai trục xe. - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái hướng dẫn 
+học viên sử dụng chân ga, số thích hợp, đánh lái để thực hiện lái xe trên đường 
+vòng; 
+Khi xe chạy trên đường vòng, lực cản tăng lên, đồng thời độ ổn định của xe 
+giảm đi do tác dụng của lực ly tâm. Lực ly tâm phụ thuộc vào bán kính quay vòng 
+và tốc độ. Do vậy trước khi tới đường vòng phải giảm tốc độ, về số thấp, quan sát 
+các trở ngại, quan sát tín hiệu của xe đi ngược chiều và dùng còi, đèn báo hiệu sự 
+32 
+xuất hiện của xe mình. Bán kính vòng càng nhỏ lực ly tâm càng lớn, vì vậy tốc độ 
+càng phải chậm. Tuỳ thuộc vào đoạn đường mà lấy lái từ từ, vừa đủ, giữ ga cho 
+xe chạy ổn định, tới giữa cung vòng có thể tăng ga để khắc phục lực cản. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe đi trên đường vòng; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe đi trên 
+đường vòng; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác.  
+ Yêu cầu đạt được: học viên nắm được phương pháp sử dụng tay số, ga phù 
+hợp, lấy trả lái đều để xe ổn định. 
+4. Lái xe trên đƣờng phức tạp 
+a. Lái xe trên đường phức tạp đông người, đông xe - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, thực hành trên thực địa 
+đường tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái hướng dẫn 
+học viên sử dụng chân ga, số thích hợp, đánh lái để thực hiện lái xe trên đường 
+phức tạp; 
+Khi đến đường đông người, đông xe, người lái xe phải thân trọng, chú ý 
+quan sát mọi tình huống và có biện pháp xử lý linh hoạt, điều khiển xe phải chính 
+xác, phối hợp mau lẹ giữa chân ga, phanh, ly hợp và tay lái, nghiêm chỉnh chấp 
+hành Luật giao thông đường bộ. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe đi trên đường phức tạp, 
+đông người, đông xe; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe đi trên đường 
+đông người, đông xe. - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác.  
+b. Lái xe trên đường trơn lầy 
+Đặc điểm khi đi trên đường trơn lầy là lực bám của bánh xe với mặt đường 
+bị giảm nhiều do đường trơn nên khó giữ cho xe đi đúng hướng, bánh xe dễ trượt. - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái, đường tập 
+lái có tình huống trơn lầy; 
+33 
+- Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái, đường tập 
+lái có tình huống trơn lầy hướng dẫn học viên sử dụng chân ga, số thích hợp, 
+đánh lái để thực hiện lái xe trên đường trơn lầy; 
+Trước khi cho xe đi qua đường trơn lầy nên dừng xe để kiểm tra mức độ 
+trơn lầy để có phương án cho xe đi qua phù hợp. Nếu có xích chống lầy hoặc xe 
+có bố trí cầu trước chủ động, hộp số phụ hay bộ khoá hãm vi sai nên sử dụng và 
+khi qua phải đưa các cơ cấu trên trở lại vị trí cũ. Nếu đã có vệt của bánh xe trước 
+đi qua thì giữ vững tay lái cho xe đi đúng vệt bánh xe đi trước, sử dụng sô thấp đi 
+chậm qua. Khi đi trên đường vòng trơn trượt thì giữ đều ga, không lấy nhiều lái, 
+không đánh tay lái ngoặt, không phanh gấp có thể làm trơn trượt hoặc quay xe. 
+Nếu xe bị trơn trượt ngang nhẹ thì lấy ít lái cho xe từ từ vào giữa đường, nếu 
+trượt nghiêm trọng có thể dỡ hàng, đào rãnh hướng vệt bánh xe về phía an toàn, 
+gài sô 1 cho xe tiến vào rãnh đào theo hướng đi lên. Nếu bánh xe bị quay trơn, 
+cho xe lùi lại và lót bằng đá, gạch vỡ. ván lót. cỏ khô, rơm.... không vên rú ga cố 
+cho xe tiến, vì càng làm khoét sâu sẽ khó khăn hơn, nhất là khi cầu xe đã chạm 
+đất. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe đi trên đường trơn lầy; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe đi trên đường 
+trơn lầy. - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác.  
+c. Lái xe qua đường ngầm 
+Trên đường ngập nước, xuất hiện đệm nước giữa mặt lốp với mặt đường 
+nên lực bám của bánh xe với mặt đường bị giảm, nhưng lực cản của xe tăng lên, 
+nếu đường cắt ngang dòng nước chảy thì xe còn bị đẩy trôi về phía hạ lưu. - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái hướng dẫn 
+học viên sử dụng chân ga, số thích hợp để thực hiện lái xe qua đường ngầm; 
+Trước khi cho xe qua đường ngầm cần kiểm tra chiều sâu của mặt nước, 
+tốc độ dòng chảy, tình hình mặt đường như tốt, xấu, rộng, hẹp, đá to, đất, cát.... 
+căn cứ vào đặc tính của xe để có phương án cho xe qua. Trường hợp mức nước 
+quá sâu (nhưng vẫn trong phạm vi cho xe qua được) phải kéo lá chắn gió két 
+nước, tháo dây đai quạt gió, lấy tấm kín bọc bộ chia điện, dây điện, cọc nối và 
+34 
+đưa bình điện lên vị trí cao, nút kín lỗ kiểm tra dầu máy, nới lỏng ống thoát khí 
+tại cổ xả hay dùng ống mềm nối cửa cuối ống giảm thanh lên cao. 
+Khi xe qua ngầm, nếu mặt đường rộng cho xe đi xiên góc theo hướng 
+nước chảy, mặt đường trụng bình lái xe đi song song mép đường phía thượng 
+lưu ngay từ đầu. 
+Cho xe qua đường ngầm nên đi số 1. Nếu có cầu chủ động trước và có 
+hộp số phụ nên sử dụng ngay, giữ vững tay lái, đi đều ga, tránh không để xe chết 
+máy giữa dòng, không nên dừng xe trên đường ngập nước. Nếu giữa chừng bị 
+quay trơn tìm cách kéo đẩy xe về phía đầu ngầm. Không nên cố tăng ga đề 
+phòng đất cát xoáy, lún sãu giữa dòng rất nguy hiểm. Nếu xe đi đoàn nên cho 
+qua từng chiếc một. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe đi trên đường ngầm; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe đi qua ngầm; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+d. Lái xe ban đêm, sương mù, mưa gió lớn 
+Khi lái xe ban đêm và tĩời sương mù, mưa gió, phạm vi và cường độ đèn 
+chiếu sáng có hạn nên tầm nhìn bị hạn chế, ánh sáng đèn bị loá nhất là khi có xe 
+đi ngược chiều làm người lái loá mắt. Vì vậy, khi lái xe phải thận trọng, chú ý 
+chọn đường, chọn tốc độ phù hợp với tầm nhìn và thực trạng đường sá để đảm 
+bảo an toàn. - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái, đường tập 
+lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái, đường tập 
+lái hướng dẫn học viên lái xe ban đêm; 
+Ban đêm nên cho xe chạy giữa đường (trừ đường phố), xe chạy ban đêm 
+phải sử dụng tất cả các loại đèn chiếu sáng và đèn tín hiệu để soi đường, báo hiệu. 
+Tốc độ dưới 30km/h ánh sáng đèn chiếu cần xa 30m. Tốc độ trên 30km/h ánh 
+sáng chiếu xa 100m trở lên. Trong thành phố thị xã tắt đèn pha bật đèn cốt và đèn 
+con. Khi đỗ xe bạt đèn con và đèn hậu. 
+Trước khi tránh nên chọn chỗ rộng và bằng phẳng, gặp đường hẹp hay có 
+chướng ngại vật nên bình tĩnh, nhường nhịn, cần thiết nên chủ động dừng xe 
+trước. 
+35 
+Khi cần đỗ xe cũng như khi khởi hành, vì tầm nhìn hạn chế nên bật đèn rồi 
+mới cho xe chuyển bánh và đỗ xe xong mới tắt đèn, đỗ xe sát lề đường bên phải 
+và phải có tín hiệu đèn trước và sau xe. 
+Xe chạy ban đêm nếu bị tắt đèn pha cốt, bất ngờ phải bình tĩnh giảm tốc 
+độ, nhớ hướng đường mà điều khiển xe dừng lại, xuống xe quan sát, dùng người 
+xi nhan hoặc đưa xe vào để đường để sửa chữa. 
+Khi lùi xe quay đầu xe hoặc xe chạy ở đường vòng hẹp phải có người 
+hướng dẫn hoặc xuống quan sát rồi mới cho xe đi. 
+Lái xe khi trời mưa gió, sường mù, người lái xe dùng đèn vàng và giảm tốc 
+độ phù hợp tầm nhìn để quan sát và xử lý tình huống an toàn. 
+Nếu kính lái bị mờ, có thể hạ kính chắn gió để nhìn dễ hơn, chạy chậm. 
+Khi tránh xe phải dùng còi báo hiệu, không lấy lái vào sát lề đường. Nếu thấy 
+không đảm bảo an toàn hoặc nhìn không rõ đường nên dừng xe lại quan sát 
+nhường đường trước. 
+e. Lái xe trên đường cao tốc 
+Đường cao tốc là loại đường có chất lượng tốt, phẳng, rộng và có phân 
+chiều, mỗi chiều phân thành nhiều làn xe quy định cho các cấp tốc độ. - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái, đường tập 
+lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái, đường tập 
+lái hướng dẫn học viên lái xe trên đường cao tốc; 
+Trên đường cao tốc, yêu cầu xe phải có tình trạng kỹ thuật tốt, người lái 
+phải tuyệt đối chấp hành luật giao thông đường bộ. Việc khống chế tốc độ chủ 
+yếu bằng ga và phanh nhẹ sau những phát hiện từ xa. Vì tốc độ lớn, nếu lấy lái 
+nhiều và phanh gấp làm xe mất ổn định rất nguy hiểm. Nói chung nên căn cứ vào 
+điều kiện kỹ thuật và tốc độ của xe mình đi đúng làn đường quy định, quan sát và 
+căn đường từ xa, điều khiển nhẹ nhàng. 
+Khi muốn chuyển làn xe (để chạy nhanh hoặc chậm hơn) phải thực hiện 
+tăng, giảm tốc độ trong phạm vi quy định do vạch kẻ đường chỉ định. Trước khi 
+ra làn mới phải bật đèn tính hiệu. Nếu cần dừng hoặc đỗ xe phải giảm dần tốc độ 
+và chuyển về làn xe quy định cho cấp tốc độ thấp nhất. 
+5. Quay trở đầu xe - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô, bãi tập lái, đường tập 
+lái; 
+36 
+- Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái, đường tập 
+lái hướng dẫn học viên thực hiện thao tác quay trở đầu xe; 
++ Quan sát thật kỹ địa hình nơi quay trở đầu xe; 
++ Lựa chọn phương pháp quay trở đầu xe thích hợp; 
++ Tiến và lùi quay trở đầu xe phải chậm; 
++ Thường xuyên ra tín hiệu, tốt nhất nếu có người báo hiệu phía sau; 
+Nếu quay đầu xe ở nơi nguy hiểm thì đưa đầu xe về phía nguy hiểm đưa 
+đuôi xe về phía an toàn. 
+* Chú ý : 
++ Khi quay đầu xe phải thực hiện ―tiến già, lùi non‖ 
++ Không được cô ép, nếu xét thấy nguy hiểm thì dừng lại và quay trở tiếp. 
++ Các thao tác lái xe phải nhanh nhẹn, chính xác. - Quay đầu xe theo chiều tiến một lần. - Quay đầu xe ở nơi đường rộng, khi xe còn cách chỗ quay đầu khoảng 50m thì 
+ra tín hiệu xin quay đầu bằng đèn xi nhan hoặc bằng tay, giảm tốc độ cho xe 
+chạy sát lề đường bên phải, nếu không có trở ngại thì giảm tới số chậm, bóp còi 
+và lấy lái cho xe từ từ quay đầu theo hướng ngược lại. 
+Phương pháp quay đầu xe một lần còn có thể áp dụng ở ngã 3, ngã tư, 
+ngã năm... nơi mặt đường giao nhau rộng rãi, không có biển cẩm quay đầu xe 
+và ở thời điểm mật độ giao thông không có trở ngại. - Quay đầu ngang đường kết hợp giữa tiến và lùi xe. 
+Nếu mặt đường không đủ rộng thì phải quay theo kiểu tiến, lùi lại nhiều 
+lần bằng cách cho xe quay ngang đường, khi tiến gần hết mặt đường thì trả lại 
+tay lái và dừng xe. Tiếp tục cho xe lùi lại, khi lùi gần hết mặt đường phía sau 
+cũng trả lái và dừng xe lại. Tương tự như vậy tiến, lùi cho đến khi quay được 
+đầu xe theo hướng ngược lại. - Giáo viên sử dụng xe ô tô thực hiện các thao tác quay trở đầu xe; - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác quay trở đầu xe; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+6. Kéo xe - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô (02 xe tập lái), bãi tập 
+lái, đường tập lái, dây kéo, thanh kéo; 
+37 
+- Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái, đường tập 
+lái hướng dẫn học viên thực hiện thao tác kéo xe; 
+Trước khi kéo xe phải kiểm tra dây kéo, móc kéo, chốt, bảo hiểm ở móc 
+nối càng kéo, bàn xoay và ốc bắt bánh xe, áp xuất hơi lốp, hệ thống phanh.... 
+Kiểm tra tình trạng kỹ thuật của xe, thử động cơ cho chạy ở các tốc độ, xác 
+định tình trạng hoạt động bình thường và khả năng tăng tốc của động cơ, phanh 
+chạy đảm bảo tốt, xe không có móc kéo không được dùng dây tạm bợ buộc để 
+kéo xe. 
+Khởi hành gài số 1, ga lớn hơn khi đi xe không hàng, nhả ly hợp từ từ đến 
+khi kéo căng càng kéo và xe cần kéo chuyển động mới nhả hết ly hợp và tăng ga 
+chạy bình thường. 
+Muốn tăng số phải lấy đà dài. Khi cần giảm số để tăng lực kéo phải thực 
+hiện giảm số sớm hơn. 
+Khi kéo xe lên dốc nếu yếu đà quá có thể giảm tắt số. Khi xuống dốc 
+đường tốt, điều kiện giao thông cho phép cũng có thể tăng vượt cấp. 
+Nếu trọng tải đoàn xe nặng, đường trơn, nên sử dụng số thấp xuống dốc để 
+sử dụng phanh chủ yếu bằng động cơ kết hợp với phanh chân cho an toàn. 
+Trên đường bằng xe kéo nhau nên giữ tốc độ đều, khi gặp xe ngược chiều 
+cần tìm chỗ thuận lợi hướng tới. Chủ động tránh trước. 
+Tránh nhau phải lấy lái sớm và luốn có ý thức rằng còn có xe đang kéo 
+đằng sau, để có phương án đảm bảo an toàn. 
+Xe kéo nhau trong mọi trường hợp giữ khoảng cách tới xe trước lớn hơn 
+bình thường để chủ động xử trí. Cần thiết có thể hãm dừng được cả xe kéo và xe 
+cần kéo. Tránh hết sức việc đỗ xe. dừng xe ngang dốc, nếu cần dừng trên dốc 
+nhất thiết phải chèn xe. sau khi đã thực hiện đầy đủ các biện pháp an toàn khác. 
+Khi cần quay đầu phải chọn chỗ rộng và bằng phẳng cho xe tiến để quay 
+đầu để quay vòng một lần là tối nhất. 
+Xe kéo nhau muốn dừng, đỗ phải hãm từ từ và có ý thức chủ động từ trước, 
+chi phanh hãm dừng xe sau khi đã nhá hẳn ga cho xe chạy chậm lại và đỗ cho 
+thích hợp. 
+Đường không dốc. các ngã ba, ngã tư hoặc nơi đông đúc, thực hiện tắt 
+máy, gài số. kéo phanh tay kết hợp chèn bánh sau xe kéo. 
+Lưu ý
+ : khi kéo xe bị mất phanh nhất thiết phải sử dụng thanh kéo, không 
+sử dụng dây kéo - Giáo viên sử dụng xe ô tô thực hiện các thao tác kéo xe; 
+38 
+- Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác kéo xe. - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+7. Lái xe ô tô qua đường sắt 
+Khi lái xe qua đường sắt, người lái xe cần dừng xe tạm thời, quan sát an toàn 
+trước khi chi xe vượt qua. - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô tập lái, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái xe, đường 
+tập lái xe để hướng dẫn học viên thực hiện thao tác lái xe qua đường sắt; -  Giáo viên trình bày các bước thực hiện lái xe qua đường sắt: - Dừng xe tạm thời: 
+Không đi tiếp khi có chuông báo hoặc thanh chắn đã hạ xuống; 
+Nếu đường dốc hoặc phải chờ lâu, cần phải về số N hoặc số P (đối với xe ô 
+tô số tự động), kéo phanh tay; 
+Không dừng quá vạch dừng; 
+Nếu không có vạch dừng thì phải dừng xe cách xa đường sắt; - Kiểm tra an toàn: 
+Trước khi khởi hành nhất thiết phải nghe, nhìn để đảm bảo an toàn (Nếu nơi 
+giao nhau với đường sắt không có rào chắn, không có chuông báo động, 
+người lái xe phải hạ kính cửa sổ, tắt các thiết bị âm thanh, chú ý quan sát và 
+lắng nghe); 
+Phải quan sát phía đối diện xem có còn khoảng trống không, nếu không có 
+thì không được vượt đường sắt. - Phương pháp vượt qua đường sắt: về số thấp, tăng ga nhẹ để tránh động cơ 
+chết, không đổi số và đi chếch về phía trong để tránh kẹt bánh xe vào đường sắt. 
+Xử lý khi xe ô tô hỏng giữa đường sắt: Trường hợp xe ô tô bị hỏng đột ngột 
+giữa đường sắt, người lái xe cần phải phát tín hiệu khẩn cấp, báo cho nhân 
+viên đường sắt và cảnh sát giao thông, đồng thời tìm mọi cách đưa xe ra khỏi 
+đường sắt: 
++ Bình tĩnh khởi động lại động cơ; 
++ Nếu không được phải tìm mọi cách cảnh báo nguy hiểm; 
++ Huy động người đẩy hộ, vừa đẩy vừa cài số thấp để khởi động động cơ. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe qua đường sắt; 
+39 
+- Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe qua đường 
+sắt; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+8. Lái xe tiến và lùi hình chữ chi 
+Là bài tập tổng hợp, rèn luyện phương pháp sử dụng chân côn, chân phanh, 
+chân ga, đánh lái, quan sát điểm chuẩn vật chuẩn … 
+a. Cách dựng hình chữ chi 
+Kích thước hình chữ chi thực hành lái xe ô tô tiến và lùi ( tùy theo từng loại 
+xe) được tính: L=1,5a B=1,5b. Trong đó: a là chiều dài ô tô, b là chiều rộng ô 
+tô. 
+0.05m 
+A 
+Bcm 
+B 
+D 
+C 
+B’ 
+A’ 
+C’ 
+Lcm 
+b. Hướng dẫn thực hành lái xe tiến qua hình chữ chi 
+E 
+D’ 
+E’ -  Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô tập lái, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái hướng dẫn 
+học viên thực hiện thao tác tiến vào hình chữ chi; 
+Khi lái xe ô tô tiến qua hình chữ chi các điểm B’, C’ và D’ làm điểm chuẩn. 
+Khởi hành và cho xe xuất phát và hình bằng số phù hợp, tốc độ ổn định, cho xe 
+tiến sát vào vạch trái với khoảng cách (giữa bánh xe và vạch) từ 20 đến 30 cm. 
+Khi tấm chắn phía trước đầu xe ngang với điểm B’ thì từ từ lấy hết lái sang phải. 
+Khi quan sát đầu xe vừa cân với hai vạch thì từ từ trả lái sang trái, đồng thời điều 
+chỉnh cho xe tiến sát vào vạch phải với khoảng cách từ 20 đến 30 cm. Khi quan 
+sát thấy tấm chắn phía trước đầu xe ngang với điểm C’ thì từ từ lấy hết lái sang 
+trái. Khi đầu xe cân với hai vạch thì từ từ trả lái sang phải, đồng thời điều chỉnh 
+cho xe tiến vào vạch trái với khoảng cách từ 20 đến 30 cm. Tiếp tục thao tác như 
+đã trình bày để đưa xe tiến ra khỏi hình. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lái xe vào qua hình chữ chi 
+40 
+- Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lái xe vào hình chữ 
+chi; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+c. Hướng dẫn thực hành lái xe lùi qua hình chữ chi - Giáo cụ: hình vẽ, chiếu slide, chiếu video clip, xe ô tô tập lái, bãi tập lái; - Giáo viên dùng hình vẽ, slide, video clip, thực địa trên bãi tập lái hướng dẫn 
+học viên thực hiện thao tác lùi hình chữ chi; 
+Khi lái xe ô tô lùi qua hình chữ chi lấy các điểm D,  C và B làm điểm 
+chuẩn. Quan sát gương chiếu hậu để xác định hướng lùi của xe, xác định khoảng 
+cách bước đầu giữa bánh xe và vạch để có biện pháp điều chỉnh thích hợp, đồng 
+thời từ từ điều khiển cho xe lùi lái sát vạch phải với khoảng cách từ 20 đến 30 
+cm. Khi quan sát thấy điểm D cách bánh xe sau khoảng từ 20 đến 30 cm thì lấy 
+hết lái sang phải, đồng thời quan sát gương chiếu hậu trái. Khi thấy điểm C xuất 
+hiện trong gương thì từ từ trả lái sang trái, đồng thời điều chỉnh khoảng cách giữa 
+bánh xe sau và điểm C với khoảng cách từ 20 đến 30 cm. 
+Khi điểm C cách bánh xe sau khoảng cách từ 20 đến 30 cm thì lấy hết lái 
+sang trái. 
+Tiếp tục thao tác như đã trình bày trên để lùi xe ra khỏi hình. - Giáo viên sử dụng xe ô tô thực hiện các thao tác lùi qua hình chữ chi - Trên nguyên tắc lấy học viên làm trung tâm và giáo viên chỉ là người dẫn dắt; - Giáo viên yêu cầu học viên thực hiện trình tự các thao tác lùi qua hình chữ 
+chi; - Giáo viên quan sát và kịp thời uốn nắn, sửa chữa khi học viên thực hiện sai 
+động tác. 
+d. Đánh giá khi thi tốt nghiệp 
+Tổng số có 10 cọc chuẩn: khi thí sinh điều khiển xe chạm cọc, mỗi lần trừ 2 điểm, 
+số điểm đạt 16/20 
+9. Lái xe hình số 3 số 8 
+9.1. Điều khiển xe trong hình số 8. 
+a. Cách dựng hình. 
+41 
+- Chuẩn bị 16 cọc chiều cao 2m. - Chọn một bãi phẳng có chiều dài tối thiểu là 3RN + Rtr (m), chiều rộng tối 
+thiểu 2RN (m). - Dựng một đường tâm dọc theo bãi tập, trên đường tâm ta dựng hai đường tròn 
+lớn có đường kính 2RN (m) và cách đều hai đầu bãi. - Từ tâm hai đường tròn lớn ta dựng hai đường tròn nhỏ có đường kính 2Rtr 
+(m) sau đó ta dựng các cọc vào vị trí như hình vẽ 1 ta được bãi tập hình số 8 có 
+mặt đường xe chạy là Bqcm. - RN (m) là bán kính quay vòng phía ngoài của hình số 8:   - RN = Rqv + 1,7 (m). - Với  Rqv (m) là bán kính quay vòng của xe (tính bằng khoảng cách vệt bánh 
+xe ngoài đến tâm quay vòng khi đánh hết lái). - Rtr (m) là bán kính quay vòng phía trong của hình số 8:  
+Rtr = RN – Bqc 
+Bqc (m) là chiều rộng làn xe chạy trong hình dành cho loại xe ô tô đó  Bqc = 
+2.2b. 
+Với b là chiều rộng ô tô. 
+Sqc (m) là khoảng cách tâm 2 hình số 8: 
+Sqc = RN + Rtr 
+42 
+b. Thao tác điều khiển xe trong hình số 8. 
+Lái xe qua cửa A, tăng lên số 2 tiến theo hình số 8 một lần và hình số 3 một 
+lần rồi ra khỏi hình theo cửa B. - Cách căn đường để điều khiển xe trong hình số 8. 
+Điều khiển xe trong đường tròn hình số 8 ta căn cho xe đi sát vòng tròn 
+ngoài cách  chắn bùn của bánh trước, phía ngoài cách cọc giới hạn kích thước từ 
+10 – 15cm lấy đều lái cho xe chạy vòng tròn trong khi đảo vòng tròn ta lại căn 
+ngược lại. - Kết hợp điều khiển xe trong hình ta tiến hành tăng giảm tốc độ của xe và 
+tăng giảm số cho đúng vị trí, ở vị trí a và vị trí c ta phải lấy đủ đà để tăng số 3, ở 
+vị trí b và d ta phải giảm ga  thao tác giảm về số 2. 
+9.2. Lái xe trong hình số 3 ghép 
+a. Thao tác điều khiển xe trong hình số 3 
+Điều khiển xe hình số 3 ghép yêu cầu trình độ cao hơn điều khiển xe trong 
+hình số 8 tốc độ điều khiển xe 2 đầu vòng tròn số 3 ghép ta điều khiển xe đi số 3 
+và ở giữa số 3 vòng gấp ta điều khiển xe trong hình số 8, song ở hình này ta phải 
+tập đảo chiều điều khiển xe trong hình để thay đổi chiều vòng của xe. - Kết hợp điều khiển xe trong hình ta tiến hành thay đổi tốc độ của xe, thay đổi 
+số của xe tại các điểm quy định. - Khi đảo chiều điều khiển xe, ta thay đổi vị trí tăng giảm số ngược lại. 
+* Yêu cầu thao tác điều khiển xe trong hình và các sai hỏng thƣờng gặp. 
+b. Yêu cầu thao tác điều khiển xe trong hình. - Khi điều khiển xe trong hình số 8 và 3 ghép phải đạt được các yêu cầu sau: 
++ Thực hiện lấy trả lái khi xe ra vào vòng, phải nhanh nhẹn chính xác, không gạt 
+đổ cọc, bánh xe đè vạch. 
++ Biết tăng giảm tốc độ của xe, tăng giảm số đúng vị trí nhanh nhẹn và kết hợp 
+với điều khiển xe chính xác. 
+c. Những sai hỏng hay xảy ra: 
+Khi điều khiển xe vào phòng tốc độ quá nhanh không lấy lái kịp xe gạt đổ 
+cọc bánh xe đè vạch giới hạn đường tròn ngoài. - Thao tác tăng giảm số chậm, không chính xác, không chủ động lấy trả lái kịp 
+thời xe gạt đổ cọ bánh xe đè lên vạch. 
+43 
+- Khi xe vào vòng điều khiển xe không sát vòng tròn ngoài, thùng xe và bánh 
+sau gạt đổ cọc và đè vạch vòng tròn trong. 
+Lưu ý: 
+Khoảng cách điều chỉnh giữa xe và cọc từ 30 – 40 cm. 
+9.3. Đánh giá khi thi tốt nghiệp 
+Có 4 cọc chuẩn ở cửa vào và cửa ra, mỗi lần chạm cọc trừ 2 điểm, mỗi lần bánh 
+xe đè lên vạch trừ 2 điểm; số điểm đạt 6/10 điểm. 
+III. 
+Hƣớng dẫn thực hiện 10 bài thì trong hình  
+Giáo viên thực hành lái xe hướng dẫn học viên thực hiện trình tự các bài 
+thi theo văn bản hướng dẫn quy trình sát hạch lái xe của Tổng cục Đường bộ Việt 
+Nam. 
+Học viên phái lần lượt thực hiện bài thi từ bài 1 đến bài 10, nếu bỏ một bài 
+không thực hiện thì bài thi sẽ bị loại, vi phạm vào các lỗi nặng đã được quy định 
+bài thì sẽ bị loại, tất cả các lỗi vi phạm, trong 10 bài thi đều bị trừ điểm theo thang 
+điểm quy định 
+1. Bài 1: Xuất phát 
+Các bƣớc thực hiện: - Xe nổ máy ở vị trí xuất phát. - Thí sinh thắt dây an toàn, dừng xe trước vạch xuất phát, chờ hiệu lệnh; - Khi có lệnh xuất phát (đèn xanh trên xe bật sáng, tiếng loa trên xe báo lệnh 
+xuất phát), bật đèn xi nhan trái, lái xe xuất phát; - Tắt xi nhan trái ở khoảng cách 5 mét sau vạch xuất phát (đèn xanh trên xe 
+tắt); - Lái xe đến bài sát hạch tiếp theo. 
+Yêu cầu đạt đƣợc: - Thắt dây an toàn trước khi xuất phát; - Khởi hành nhẹ nhàng, không bị rung giật, trong khoảng thời gian 20 giây; - Bật đèn xi nhan trái trước khi xuất phát; - Tắt đèn xi nhan trái ở khoảng cách 5 mét sau vạch xuất phát (đèn xanh trên xe 
+tắt); - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Lái xe theo quy tắc giao thông đường bộ. - Tốc độ xe chạy không quá: 
+44 
+- 24 km/h đối với hạng B, D - 20 km/h đối với hạng C, E. 
+Các lỗi bị trừ điểm - Không thắt dây an toàn, bị trừ 05 điểm; - Không bật đèn xi nhan trái khi xuất phát, bị trừ 05 điểm; - Không tắt đèn xi nhan trái ở khoảng cách 05 mét sau vạch xuất phát (đèn 
+xanh trên xe tắt), bị trừ 05 điểm; - Không bật và tắt đèn xi nhan trái kịp thời bị trừ 05 điểm; - Quá 20 giây kể từ khi có lệnh xuất phát (đèn xanh trên xe bật sáng) không đi 
+qua vạch xuất phát, bị trừ 05 điểm; - Quá 30 giây kể từ khi có lệnh xuất phát (đèn xanh trên xe bật sáng) không đi 
+qua vạch xuất phát, bị truất quyền sát hạch. - Lái xe lên vỉa hè bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Lái xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Lái xe quá tốc độ quy định, cứ 3 giây bị trừ 01 điểm. 
+2. Bài 2: Dừng xe nhƣờng đƣờng cho ngƣời đi bộ: 
+Các bƣớc thực hiện - Dừng xe để khoảng cách từ hình chiếu thanh cản phía trước của xe xuống mặt 
+đường đến vạch dừng (khoảng cách A) không quá 500mm; - Lái xe đến bài sát  hạch tiếp theo. 
+Phƣơng pháp  
+Khi quan sát mặt đường phía trước mà đoạn đường có vạch kẻ đường giành 
+cho người đi bộ ngang qua đường phải giảm tốc độ, quan sát hai bên đường 
+phòng có người đi ngang qua, nếu có thì nhanh chóng giảm tốc độ, giảm số và 
+dừng xe đúng vị trí, nhanh chóng khởi hành xe khi mặt đường cho phép và đảm 
+bảo an toàn. 
+Yêu cầu đạt đƣợc - Dừng xe cách vạch dừng quy định không quá 500mm; - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Lái xe theo quy tắc giao thông đường bộ. - Tốc độ xe chạy không quá: 
+45 
+24 km/h đối với hạng B, D 
+20 km/h đối với hạng C, E 
+Các lỗi bị trừ điểm - Không dừng xe ở vạch dừng quy định, bị trừ 05 điểm; - Dừng xe chưa đến vạch dừng quy định (A  500mm), bị trừ 05 điểm; - Dừng xe quá vạch dừng quy định, bị trừ 05 điểm. - Lái xe lên vỉa hè bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Lái xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 5 điểm; - Lái xe quá tốc độ quy định, cứ 3 giây bị trừ 01 điểm. - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+01 điểm; - Điểm sát hạch dưới 80 điểm, bị truất quyền sát hạch. 
+3. Bài 3: Dừng và khởi hành xe ngang dốc 
+Các bƣớc thực hiện: - Dừng xe để khoảng cách từ hình chiếu thanh cản phía trước của xe xuống mặt 
+đường đến vạch dừng (khoảng cách A) không quá 500mm; - Khởi hành lên dốc nhẹ nhàng, không bị tụt dốc, bảo đảm thời gian quy định; - Lái xe đến bài sát hạch tiếp theo. - Lái xe đến bài 4. 
+Phƣơng pháp: 
+Điều khiển xe lên dốc, sử dụng tốc độ, số phù hợp khi lên dốc ga nhẹ ổn 
+định cho xe từ từ tiên lên vị trí dừng xe, khi xe còn cách vạch dừng xe khoảng từ 
+0,7 đến 0,8 m thì đạp ly hợp đạp phanh cho xe từ từ dừng lại trước vạch dừng xe 
+trong khoảng (từ 0 đến 50 cm) → kéo phanh tay → ra số không và gài vào số 1→ 
+ra tín hiệu khởi hành xe → tăng ga trung bình → nhả ly hợp đến điểm tiếp giáp 
+→ nhả phanh tay nhanh → nhả hết ly hợp → tăng ga lấy đà xe vượt qua dốc, tăng 
+số 2. 
+Yêu cầu đạt đƣợc: - Dừng xe cách vạch dừng quy định không quá 500mm; - Khởi hành xe êm dịu, không bị tụt dốc quá 500mm; - Xe qua vị trí dừng trong khoảng thời gian 30 giây; 
+46 
+- Giữ tốc độ động cơ không quá 4000 vòng/phút; - Lái xe theo quy tắc giao thông đường bộ. - Tốc độ xe chạy không quá: 
+24 km/h đối với hạng B, D 
+20 km/h đối với hạng C, E 
+Các lỗi bị trừ điểm: - Không dừng xe ở vạch dừng quy định, bị truất quyền sát hạch; - Dừng xe chưa đến vạch dừng quy định (A  500mm), bị trừ 05 điểm; - Dừng xe quá vạch dừng quy định, bị truất quyền sát hạch; - Quá thời gian 30 giây kể từ khi dừng xe không khởi hành xe qua vạch dừng, 
+bị truất quyền sát hạch; - Xe bị tụt dốc quá 50 cm kể từ khi dừng xe, bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Lái xe quá tốc độ quy định, cứ 03 giây bị trừ 01 điểm. - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+1 điểm; - Điểm sát hạch dưới 80 điểm, bị truất quyền sát hạch. 
+4. Bài 4: Qua vệt bánh xe, đƣờng hẹp vuông góc 
+Các bƣớc thực hiện : - Lái xe để bánh xe trước và bánh xe sau bên lái phụ qua vùng giới hạn của 
+hình vệt bánh xe; - Lái xe qua đường vòng vuông góc trong vùng giới hạn của hình sát hạch 
+trong thời gian 2 phút; - Lái xe qua vạch kết thúc bài sát hạch và đến bài sát hạch tiếp theo. 
+Phƣơng pháp tiến xe qua vệt bánh xe: 
+Điều khiển xe đi thẳng từ xa vào vệt bánh xe, cho toàn bộ bánh xe phía bên 
+phái của xe đi lọt qua vết bánh xe, có hai phương pháp căn đường như sau: 
+Phương pháp 1
+ : Căn trục tay lái của xe trùng vào một đường thẳng tưởng 
+tượng song song với vạch giới hạn cách vạch giới hạn về bên trái một khoáng 
+cách nhất định theo kích thước của từng loại xe. Khi hai điểm căn đã trùng nhau 
+thì giữ nguyên tay lái cho xe tiến qua vết bánh xe, nếu chưa trùng nhau thì phải 
+điều chỉnh tay lái. 
+47 
+Phương pháp 2
+ : Dùng một điểm chuẩn nào đó ngay phía trước đầu xe, 
+dóng trực tiếp để điểm chuẩn đó trùng với vạch giới hạn ở phía bên trái, giữ 
+nguyên tay lái cho xe đi qua vết bánh xe. 
+Khi xe qua vệt bánh xe, cho xe chạy với tốc độ ổn định, đồng thời chú ý 
+mở lái sang bên phải cho xe liến sát vào vạch giới hạn bên phải và nhanh chóng 
+lấy hết lay lái sang bên trái cho xe qua đoạn vuông góc thứ nhất, tiếp tục cho xe 
+tiến sát sang vạch giới hạn bên trái và nhanh chóng lấy hết tay lái sang bên phải 
+cho xe đi qua đoạn vuông góc thứ 2 . 
+Yêu cầu đạt đƣợc - Đi đúng hình quy định của hạng xe sát hạch; - Bánh xe trước và bánh xe sau bên lái phụ qua vùng giới hạn của hình vệt bánh 
+xe; - Bánh xe không đè vào vạch giới hạn hình sát hạch; - Hoàn thành bài sát hạch trong thời gian 02 phút. - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Tốc độ xe chạy không quá: 
+24 km/h đối với hạng B, D 
+20 km/h đối với hạng C, E 
+Các lỗi bị trừ điểm - Đi không đúng hình của hạng xe sát hạch, bị truất quyền sát hạch; - Bánh xe trước và bánh xe sau bên lái phụ không qua vùng giới hạn của hình 
+vệt bánh xe, bị truất quyền sát hạch; - Bánh xe đè vào vạch giới hạn hình sát hạch, mỗi lần bị trừ 05 điểm; - Bánh xe đè vào vạch giới hạn hình sát hạch, cứ quá 05 giây, bị trừ 05 điểm; - Thời gian thực hiện bài sát hạch, cứ quá 02 phút, bị trừ 05 điểm. - Lái xe lên vỉa hè bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Xe quá tốc độ quy định, cứ 03 giây bị trừ 01 điểm. - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+01 điểm; - Điểm thi dưới 80 điểm, bị truất quyền sát hạch. 
+48 
+5. Qua ngã tƣ có đèn điều khiển giao thông 
+Các bƣớc thực hiện - Lái xe chấp hành theo tín hiệu đèn điều khiển giao thông. 
++ Khi đèn tín hiệu màu đỏ sáng: 
+Khi còn cách vạch dừng 0,7 đến 0,8 m nhả chân ga, đạp côn, từ từ rà phanh 
+cho xe dừng cách vạch dừng khoảng cách từ 0 đến 0,5 m. Chờ khi có đèn tín hiệu 
+màu xanh bật thì khởi hành cho xe đi qua ngã tư. 
++ Khi đèn tín hiệu màu xanh sáng: - Giữ khoảng cách an toàn với xe phía trước, cho xe đi qua ngã tư; 
+Tiếp tục điều khiển xe đến các bài tiếp theo. 
+Phƣơng pháp:  
+Điều khiển xe tiến vào ngã tư đường có tín hiệu đèn ở phía trước, quan sát 
+đèn tín hiệu để điểu khiển xe, nếu đèn tín màu xanh thì tiếp tục cho xe qua, luôn 
+luôn quan sát hai phía đề phòng có người và xe khác đi tới, nếu quan sát thấy đèn 
+tín hiệu đang có màu vàng hoặc đỏ thì nhanh chóng phái giảm tốc độ, khi còn 
+cách vạch dừng 0,7 đến 0,8 m nhả chân ga, đạp côn, từ từ rà phanh cho xe dừng 
+cách vạch dừng khoảng cách từ 0 đến 0,5 m. Trong khi dừng xe luôn luôn quan 
+sát đèn tín hiệu, khi đèn tín hiệu từ màu đỏ chuyển sang màu vàng thì ngay lập 
+tức phải đạp ly hợp gài vào số 1 chờ khi đèn tín hiệu chuyển mầu xanh là khởi 
+hành xe được ngay, nếu mặt đường cho phép thì nhanh chóng lấy đà tăng số cho 
+xe đi qua ngã tư. 
+Yêu cầu đạt đƣợc: - Chấp hành theo tín hiệu đèn điều khiển giao thông; - Dừng xe cách vạch dừng quy định không quá 500mm; - Bật đèn xi nhan trái khi rẽ trái; - Bật đèn xi nhan phải khi rẽ phải - Xe qua ngã tư trong thời thời gian 20 giây; - Lái xe qua ngã tư không vi phạm quy tắc giao thông đường bộ; - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Tốc độ xe chạy không quá: 
+24 km/h đối với hạng B, D 
+20 km/h đối với hạng C, E 
+Các lỗi bị trừ điểm 
+49 
+- Vi phạm tín hiệu đèn điều khiển giao thông (đi qua ngã tư khi đèn tín hiệu 
+màu đỏ), bị trừ 10 điểm; - Dừng xe quá vạch dừng quy định, bị trừ 05 điểm; - Dừng xe chưa đến vạch dừng quy định (A  500mm), bị trừ 05 điểm; - Không bật đèn xi nhan khi rẽ trái hoặc rẽ phải, bị trừ 05 điểm; - Quá 20 giây từ khi đèn tín hiệu màu xanh bật sáng không lái xe qua được 
+vạch kết thúc ngã tư, bị trừ 05 điểm; - Quá 30 giây từ khi đèn tín hiệu màu xanh bật sáng không lái xe qua được 
+vạch kết thúc ngã tư, bị truất quyền sát hạch; - Lái xe vi phạm vạch kẻ đường để thiết bị báo không thực hiện đúng trình tự 
+bài thi, bị truất quyền sát hạch. - Lái xe lên vỉa hè bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Xe quá tốc độ quy định, cứ 03 giây bị trừ 01 điểm. - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+01 điểm; - Điểm sát hạch dưới 80 điểm, bị truất quyền sát hạch. 
+6. Bài 6: Đƣờng vòng quanh co 
+Các bƣớc thực hiện - Lái xe qua đường vòng quanh co trong vùng giới hạn của hình sát hạch trong 
+thời gian 2 phút; - Lái xe qua vạch kết thúc bài sát hạch và đến bài sát hạch tiếp theo. 
+Phƣơng pháp:  
+khi xe gần đến đường vòng quanh co phải nhanh chóng giảm tốc độ, giảm 
+số về số phù hợp với đoạn đường hẹp, giữ chân ga ổn định, đồng thời cho bánh xe 
+trước bên trái tiến sát vạch giới hạn bên trái, khi xe đi qua hết đoạn đường vòng 
+về bên phải thì nhanh chóng cho xe tiến sát vào đường cảm biến bên phái để xe 
+qua đoạn đường vòng bên trái được an toàn. 
+Yêu cầu đạt đƣợc - Đi đúng hình quy định của hạng xe sát hạch; - Bánh xe không đè vào vạch giới hạn hình sát hạch; - Hoàn thành bài sát hạch trong thời gian 02 phút. 
+50 
+- Giữ tốc độ động cơ không quá 4000 vòng/phút; - Tốc độ xe chạy không quá: 
+24 km/h đối với hạng B, D 
+20 km/h đối với hạng C, E 
+Các lỗi bị trừ điểm: - Đi không đúng hình của hạng xe sát hạch, bị truất quyền sát hạch; - Bánh xe đè vào vạch giới hạn hình sát hạch, mỗi lần bị trừ 05 điểm; - Bánh xe đè vào vạch giới hạn hình sát hạch, cứ quá 05 giây bị trừ 05 điểm; - Thời gian thực hiện bài sát hạch, cứ quá 02 phút, bị trừ 05 điểm. - Lái xe lên vỉa hè bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Lái xe quá tốc độ quy định, cứ 03 giây bị trừ 01 điểm. - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+01 điểm; - Điểm sát hạch dưới 80 điểm, bị truất quyền sát hạch. 
+7. Bài 7 – lái xe vào nơi đỗ 
+Các bƣớc thực hiện - Lái xe tiến vào khoảng cách khống chế để lùi vào nơi ghép xe dọc (đối với xe 
+hạng B, C) hoặc khu vực để ghép xe ngang (đối với xe hạng D, E); - Lùi để ghép xe vào nơi đỗ; - Dừng xe ở vị trí đỗ quy định; - Lái xe qua vạch kết thúc bài sát hạch và đến bài sát hạch tiếp theo.  
+Phƣơng pháp 
+Hạng, Bl, B2 và C: Ghép nhà xe theo chiều dọc 
+Từ từ cho xe tiến vào hình nhà xe với tốc độ ổn định cho xe tiến song song 
+với vạch giới hạn bên trái với khoảng cách từ 20 đến 30cm chờ thời điểm lấy lái. 
+Khi vị trí người ngồi lái gần qua hết cửa nhà xe thì lấy nhanh hết lái sang bên phải 
+cho xe tiến lên vạch giới hạn bên phải, khi bánh xe gần đến vạch giới hạn thì trả tay 
+lái sang bên trái và dừng xe lại trước vạch giới hạn phía trước đầu xe. 
+Quan sát gương chiếu hậu bên trái để xác định cửa nhà xe và xác định 
+khỏang cách ban đầu giữa xe và cửa nhà xe để có biện pháp điều chỉnh và lấy tay 
+51 
+lái cho thích hợp, đồng thời cho xe lùi lại với tốc độ chạy chậm và lấy hết tay iái 
+sang trái cho xe lùi vào nhà xe chờ thời điểm trả lái. 
+Khi quan sát thấy xe gần song song với vạch giới hạn ở bên trái cửa nhà xe 
+thì từ từ trả tháng lái và dừng xe lại trong nhà xe, cho xe tiến ra khỏi nhà xe. Quan 
+sát qua gương chiếu hậu thấy bánh sau gần ra khỏi nhà xe thì lấy lái sang bên phải 
+để tiến xe ra khỏi nhà xe. 
+Hạng D,E ghép nhà xe theo chiều ngang: 
+Cho xe tiến vào hình nhà xe với tốc độ ổn định, tiến sát cửa nhà xe dọc theo 
+đường giới hạn ngoài của bài thi, khi đầu xe đi hết chiều dọc của bài thi, lấy lái 
+sang trái để xe đi theo đường vòng cung để tạo cho phần đuôi xe có hướng xuôi 
+vào cửa nhà xe đồng thời quan sát gương chiếu hậu bên phải để xác định vị trí của 
+nhà xe và thế đỗ xe để có biện pháp điều chỉnh tay lái cho phù hợp, khi quan sát 
+thấy góc bên phải của hình nhà xe thì dừng lại gài số lùi cho xe chạy với tốc độ 
+chậm, khi bánh xe trước bên phải gần đến cửa nhà xe và quan sát gương trái thấy 
+bánh sau đã gần vào vạch giới hạn ngoài hình nhà xe thì đánh lái hết sang trái đồng 
+quan sát gương bên trái dóng cho thành xe song song với vạch giới hạn ngoài của 
+nhà xe để điều chỉnh tốc độ đánh lái. Khi đầu xe đã vào hết hình nhà xe và thành xe 
+đã song song với vạch giới hạn ngoài thì lùi xe chậm cho đến khi thiết bị báo đã 
+kiểm tra xong.  
+Cho xe tiến ra khỏi nhà xe, cho xe chạy tiến chậm, ước lượng khoảng cách 
+thoát đầu xe khỏi nhà xe ( khi bánh trước của xe cách vạch giới hạn trên của nhà xe 
+khoảng 2,5 m) đánh hết lái sang trái tiến xe ra cho đến khi đầu xe ra khỏi nhà xe thì 
+trả lái cho xe tiến thẳng ra khỏi nhà xe, khi bánh xe sau của xe ra khỏi nhà xe thì 
+lấy lái nhẹ sang sang phải để xe đi thẳng. 
+Yêu cầu đạt đƣợc - Đi đúng hình quy định của hạng xe sát hạch; - Bánh xe không đè vào vạch giới hạn hình sát hạch; - Hoàn thành bài sát hạch trong thời gian 02 phút. - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Tốc độ xe chạy không quá: 
+24 km/h đối với hạng B, D 
+20 m/h đối với hạng C, E 
+Các lỗi bị trừ điểm - Đi không đúng hình của hạng xe thi, bị truất quyền sát hạch; - Bánh xe đè vào vạch giới hạn hình sát hạch, mỗi lần bị trừ 5 điểm; 
+52 
+- Bánh xe đè vào vạch giới hạn hình sát hạch, cứ quá 05 giây bị trừ 05 điểm; - Ghép xe không đúng vị trí quy định (toàn bộ thân xe nằm trong khu vực ghép 
+xe nhưng không có tín hiệu báo kết thúc), bị trừ 05 điểm; - Chưa ghép được xe vào nơi đỗ (khi kết thúc bài sát hạch, còn một phần thân 
+xe nằm ngoài khu vực ghép xe), bị truất quyền sát hạch; - Thời gian thực hiện bài sát hạch, cứ quá 02 phút, bị trừ 05 điểm. - Lái xe lên vỉa hè bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Xe quá tốc độ quy định, cứ 03 giây bị trừ 01 điểm. - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+01 điểm; - Điểm sát hạch dưới 80 điểm, bị truất quyền sát hạch. 
+8. Tạm dừng ở chỗ có đƣờng sắt chạy qua 
+Các bƣớc thực hiện - Dừng xe để khoảng cách từ hình chiếu thanh cản phía trước của xe xuống mặt 
+đường đến vạch dừng (Khoảng cách A) không quá 500mm; - Lái xe đến bài sát hạch tiếp theo.Pliươii.a nháp : Khi quan sát phía trước có 
+biển báo hiệu đường tàu hoá cắt ngang phải nhanh chóng giám tốc độ, giảm số 
+về số thấp, bào hiệu dừng xe và cho xe dừng lại trước vạch gới hạn với khoáng 
+cách >5m và dừng xe, nhanh chóng khởi hành xe khi đường cho phép và đảm 
+bảo an toàn. 
+Yêu cầu đạt đƣợc - Dừng xe cách vạch dừng quy định không quá 500mm; - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Tốc độ xe chạy không quá: 
++ 24 km/h đối với hạng B, D 
++ 25 km/h đối với hạng C, E 
+Các lỗi bị trừ điểm - Không dừng xe ở vạch dừng quy định, bị trừ 05 điểm; - Dừng xe chưa đến vạch dừng quy định ( A  500mm), bị trừ 05 điểm; - Dừng xe quá vạch dừng quy định, bị trừ 05 điểm. - Lái xe lên vỉa hè bị truất quyền sát hạch; 
+53 
+- Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Xe quá tốc độ quy định, cứ 03 giây bị trừ 01 điểm. - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+01 điểm; - Điểm sát hạch dưới 80 điểm, bị truất quyền sát hạch. 
+9. Bài 9: Thay đổi số trên đƣờng bằng 
+Các bƣớc thực hiện - Trên quãng đường 25m kể từ khi bắt đầu vào bài sát hạch, phải thay đổi số và 
+tốc độ như sau: 
++ Đối với xe hạng B: từ số 1 lên số 2 và trên 24km/h; 
++ Đối với xe hạng D: từ số 2 lên số 3 và trên 24km/h; 
++ Đối với xe hạng C, E: từ số 2 lên số 3 và trên 20km/h; - Trên quãng đường 25m còn lại của bài sát hạch phải thay đổi số và tốc độ 
+ngược lại. - Lái xe đến bài sát hạch tiếp theo.  
+Phƣơng pháp : 
+Điều khiển xe đến vị trí tăng số đường bằng, nhanh chóng tạo đà xe để tăng 
+số ( tốc độ khoảng 25 — 35 km/h ), đồng thời điều khiển cho xe đi đúng hướng và 
+ổn định tay lái. Đến vị trí giảm số vù ga → đạp li hợp → gài vào số → nhả li hợp, 
+sau đó tăng số bình thường theo điều kiện của mặt đường. 
+Yêu cầu đạt đƣợc - Trên quãng đường 25m kể từ khi bắt đầu vào bài sát hạch, phải thay đổi số và 
+tốc độ như sau: 
++ Đối với xe hạng B: từ số 1 lên số 2 và trên 24km/h; 
++ Đối với xe hạng D: từ số 2 lên số 3 và trên 24km/h 
++ Đối với xe hạng C, E: từ số 2 lên số 3 và trên 20km/h; - Trên quãng đường 25m còn lại của bài sát hạch phải thay đổi số và tốc độ 
+ngược lại. - Hoàn thành bài sát hạch trong thời gian 2 phút. - Giữ tốc độ động cơ không quá 4000 vòng/phút; 
+Các lỗi bị trừ điểm - Không thay đổi số theo quy định, bị trừ 05 điểm; 
+54 
+- Không thay đổi tốc độ theo quy định, bị trừ 05 điểm; - Không thay đổi đúng số và đúng tốc độ quy định, bị trừ 05 điểm; - Thời gian thực hiện bài sát hạch, cứ quá 02 phút, bị trừ 05 điểm. - Lái xe lên vỉa hè bị truất quyền sát hạch; - Xử lý tình huống không hợp lý gây tai nạn, bị truất quyền sát hạch; - Xe bị chết máy, mỗi lần bị trừ 05 điểm; - Để tốc độ động cơ quá 4000 vòng/phút, mỗi lần bị trừ 05 điểm; - Tổng thời gian đến bài sát hạch đang thực hiện quá quy định, cứ 03 giây bị trừ 
+01 điểm; - Điểm sát hạch dưới 80 điểm, bị truất quyền sát hạch. 
+10.  Bài 10: Kết thúc 
+Các bƣớc thực hiện - Bật đèn xi nhan phải khi xe qua vạch kết thúc; - Lái xe qua vạch kết thúc và dừng xe. 
+Các bƣớc thực hiện - Bật đèn xi nhan phải khi xe qua vạch kết thúc; - Lái xe qua vạch kết thúc; - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Tốc độ xe chạy không quá: 
++24 km/h đối với hạng B, D 
++ 20 km/h đối với hạng C, E 
+Phƣơng pháp: 
+Khi xe về đến gần đích phải giảm tốc độ của xe, chạy chậm hẳn lại, giảm 
+số về số 2, ra tín hiệu dừng xe (bật xi nhan phải)  cho xe đi sát vào phần đường 
+bên phải, giảm tốc độ, giảm số về số 0, từ từ cho xe dừng lại (xe phải vượt qua 
+vạch đích) , kéo phanh tay. 
+Yêu cầu đạt đƣợc - Bật đèn xi nhan phải khi xe qua vạch kết thúc; - Lái xe qua vạch kết thúc; - Giữ tốc độ động cơ không quá 4000 vòng/phút; - Tốc độ xe chạy không quá: 
++ 24 km/h đối với hạng B, D 
++ 25 km/h đối với hạng C, E 
+55 
+IV. Hƣớng dẫn thực hiện bài thi trên đƣờng giao thông công cộng 
+Giáo viên thực hành lái xe hướng dẫn học viên thực hiện trình tự các bài 
+thi theo văn bản hướng dẫn quy trình sát hạch lái xe của Tổng cục Đường bộ Việt 
+Nam.  
+Thí sinh thực hiện bài thi trên đường giao thông công cộng, dài tối thiểu 
+02km, có đủ tình huống theo quy định (đoạn đường do Sở Giao thông vận tải lựa 
+chọn sau khi thống nhất với cơ quan quản lý giao thông có thẩm quyền và đăng 
+ký với Tổng cục Đường bộ Việt Nam); 
+1. Các bước thực hiện 
+1.1. Chuẩn bị: 
+Học sinh thực hiện các thao tác lên xe, điều chỉnh ghế ngồi, điều chỉnh 
+gương chiếu hậu, thắt dây an toàn. 
+1.2. Xuất phát: Học sinh dừng xe trước vạch xuất phát, khởi hành theo hiệu 
+lệnh của giáo viên; 
+a. Khởi hành: (Học sinh thực hiện thao tác khởi hành như đã nêu ở mục 11 Phần 
+II) 
+Trong khoảng 15 m phải tăng từ số 1 lên số 3 (Học sinh thao tác tăng số 
+nhanh như đã nêu ở mục 10 phần II)  
+b. Yêu cầu đạt được: - Bật đèn xi nhan trái trước khi khởi hành và tắt đèn xi nhan trái khi đã nhập 
+vào làn đường; - Nhả phanh tay trước khi khởi hành, xe không bị rung giật mạnh và không lùi 
+về phía sau quá 500mm; - Trong khoảng 15 m phải tăng từ số 1 lên số 3; 
+1.3. Tăng số: Học sinh thực hiện theo hiệu lệnh của giáo viên ( học sinh thao 
+tác tăng số như đã nêu ở mục 10 phần II) 
+1.4. Giảm số: Học sinh thực hiện theo hiệu lệnh của giáo viên (Học sinh thao 
+tác giảm số như đã nêu ở mục 10 phần II) - 
+1.5. Dừng xe ở chỗ có đường sắt chạy qua, ngã tư có đèn tín hiệu giao thông: 
+Học sinh thực hiện thao tác dừng xe như đã nêu ở mục 8 phần III. - 
+Học sinh thực hiện thao tác dừng xe như đã nêu ở mục 5 phần III. 
+1.6. Kết thúc: Học sinh thực hiện theo hiệu lệnh của giáo viên (Học sinh thực 
+hiện trình tự như đã nêu ở mục 10 phần III) 
+2. Yêu cầu đạt được: 
+56 
+- Sử dụng số phù hợp với tình trạng mặt đường; -  Xe không bị rung giật mạnh, không bị choạng lái quá làn đường quy định, 
+vào đúng số theo trình tự; - Chấp hành các quy tắc giao thông đường bộ về biển báo hiệu đường bộ, tốc 
+độ và khoảng cách, đèn tín hiệu giao thông, vạch kẻ phân làn đường, nhường 
+đường cho các xe ưu tiên; tránh, vượt xe khác; - Thực hiện theo hiệu lệnh của giáo viên; - Bật đèn xi nhan phải trước khi dừng xe; - Giảm hết số khi dừng xe; - Dừng xe đúng vị trí quy định; - Kéo phanh tay khi xe dừng hẳn. 
+3. Các lỗi bị trừ điểm 
+a) Không thắt dây an toàn bị trừ 02 điểm; 
+b) Không bật đèn xi nhan trái trước khi khởi hành, bị trừ 02 điểm; 
+c) Không tắt đèn xi nhan trái khi xe đã hoà nhập  vào làn đường, bị trừ 02 điểm; 
+d) Khởi hành xe bị rung giật mạnh, bị trừ 02 điểm; 
+đ) Xe bị chết máy, mỗi lần bị trừ 02 điểm; 
+e) Không nhả hết phanh tay khi khởi hành, bị trừ 02 điểm; 
+g) Trong khoảng 15m không tăng từ số 1 lên số 3, bị trừ 02 điểm; 
+h) Sử dụng tay số không phù hợp với tình trạng mặt đường, bị trừ 02 điểm; 
+k) Vi phạm quy tắc giao thông đường bộ, mỗi lần bị trừ 05 điểm; 
+l) Thí sinh bị truất quyền sát hạch khi: - Không thực hiện theo hiệu lệnh của sát hạch viên; -  Xử lý tình huống không hợp lý gây tai nạn; -  Khi tăng hoặc giảm số, xe bị choạng lái quá làn đường quy định; 
+m) Không vào đúng số khi tăng hoặc giảm số, bị trừ 02 điểm; 
+n) Không bật đèn xi nhan phải trước khi dừng xe, bị trừ 02 điểm; 
+p) Không giảm hết số trước khi dừng xe, bị trừ 02 điểm; 
+q) Không kéo phanh tay khi dừng xe, bị trừ 02 điểm; 
+4. Giáo viên theo dõi quá trình thực hiện thi của học sinh, chấm điểm các lỗi vi 
+phạm theo quy trình, kịp thời uốn nắn sửa chữa các thao tác sai của học sinh, cuối 
+buổi luyện tập rút kinh nghiệm cho từng học sinh. 
+57 
+Phần III: Một số phƣơng pháp bảo đảm an toàn khi bảo hiểm tay lái 
+3.1. Dùng tín hiệu ngôn ngữ không lời để điều khiển và truyền đạt 
+trong giảng dạy 
+Học viên trong thời gian được đào tạo đã được các giáo viên dạy thực hành 
+lái xe truyền đạt một số quy ước dùng tay để ra hiệu thay hiệu lệnh điều khiển, 
+các giáo viên cũng rất cần thiết phải nắm vững các quy ước  này để sử dụng khi 
+xét thấy cần thiết vì trong buồng lái  luôn bị chi phối vì tiếng máy nổ to. Nếu giáo 
+viên nói to quá để nhắc nhở, học viên dễ bị cuống, mất bình tĩnh. Nếu nói nhỏ, 
+học viên sẽ không tiếp thu được mệnh lệnh  phải thực hiện.  Các tín hiệu thể hiện 
+ngôn ngữ không lời được lựa chọn là thể hiện bằng hình ảnh và chỉ thực hiện 
+bằng tay để nhắc nhở học viên là chính, cụ thể là: 
+Dùng bàn tay úp về phía trước, ra hiệu vẫy lên là cho phép đi hoặc tiếp tục 
+cho xe đi 
+Dùng bàn tay nghiêng về phía trước, ra hiệu vẫy sang bên trái là học viên 
+lấy lái sang bên trái, vẫy sang bên phải là học viên lấy lái sang bên phải, tín hiệu 
+vẫy chậm là lấy tay lái chậm, tín hiệu vẫy nhanh là lấy tay lái nhanh. 
+Khi dùng bàn tay vẫy lên vẫy xuống nhẹ, từ từ là ra hiệu cho học viên giảm 
+tốc độ, học viên phải giảm từ từ chân ga. 
+Khi 2 bàn tay chụm lại và bắt chéo lên nhau là ra hiệu học viên cho xe 
+dừng lại về phía tay phải đường. 
+Khi dùng bàn tay vẫy từ phía sau ra phía trước nhẹ là ra hiệu cho học viên 
+tăng tốc độ. 
+Khi bàn tay úp hướng về phía trước được vẫy mạnh từ trên xuống dưới có 
+nghĩa là ra hiệu cho học viên đệm phanh chân cho giảm hẳn tốc độ. 
+Tín hiệu cho xe đi thẳng khi đến đường giao nhau, dùng bàn tay chụm lại, 
+đặt úp bàn tay thẳng lên mặt kinh chắn gió có nghĩa là cho xe đi thẳng. 
+Cho xe rẽ sang phải hay sang trái, dùng bàn tay chụm lại đặt úp bàn tay lên 
+kính chắn gió, hướng bàn tay về phía bên phải hoặc bên trái có nghĩa là cho xe rẽ 
+phải hay rẽ trái khi đến đường giao nhau. 
+Khi dùng tín hiệu, động tác để hướng dẫn điều khiển mà vẫn không thể 
+hiện được hết đúng ý định của mình, giáo viên có thể dùng lời nói hoặc kết hợp 
+58 
+cả lời nói với động tác, kể cả động tác phòng vệ an toàn để điều khiển, nhưng nhẹ 
+nhàng mang tính giáo dục, không quát tháo xúc phạm là cho học viên mất bình 
+tĩnh mất bình tĩnh, dẫn đến đã không tiếp thu tốt có khi dẫn đến nguy hiểm nhất là 
+khi gặp các tình huống phức tạp. 
+3.2 Phƣơng pháp căn đƣờng 
+Trên xe sát hạch co 02 giáo viên, người được giao vị trí ngồi để bảo hiểm 
+của giáo viên là ngồi ghế phụ. Tuy ngồi bên phải nhưng sát viên phải chủ động 
+trong mọi tình huống, phải căn đường chính xác, nhận biết được mọi tình hình, 
+biết được vệt các bánh xe sẽ lăn qua ở mọi thời điểm khi học viên điều khiển xe 
+và khi cần hỗ trợ tay lái và phanh chân nhằm đảm bảo an toàn. 
+Khi ngồi ở vị trí bảo hiểm, tư thế ngồi phải thoải mãi và linh hoạt, không 
+được quá gần hoặc quá xa vành tay lái và phanh phụ. Vị trí ngồi đúng được xác 
+định tương ứng như ngồi ở vị trí lái nhưng khác là ở bên phải trong buồng lái. 
+Giáo viên muốn căn đường chính xác khi ngồi bên phải, vẫn áp dụng 
+phương pháp căn đường cơ bản như khi ngồi bên trái, chỉ khác ở vị trí điểm 
+chuẩn, vật chuẩn sẽ lấy ở bên phải bằng khoảng cách lấy từ vật chuẩn, điểm 
+chuẩn so với tim đường khi ngồi bên phải buồng lái. Xác định cụ thể, trường hợp 
+xe đi ở giữa đường ( đường hai chiều) thì vị trí của giáo viên ngồi chiếu xuống 
+mặt đường nằm ở vị trí sát tim đường về bên phải với khoảng cách từ 30 – 40 cm. 
+Trường hợp xe đi giữa một làn đường hoặc đi giữa phần đường bên phải ta cũng 
+dùng phương pháp chia đường xe chạy trên đường bằng, nhưng khác là đường 
+thẳng đượng tính từ mép đường bên phải ( mặt đường chia làm 3 phần bằng nhau) 
+theo chiều rộng người  giáo viên ngồi ở vị trí trên đường chia thứ nhất về phía 
+bên phải. 
+Để căn đường chính xác, khi giáo viên ngồi ở vị trí bảo hiểm ngoài phương 
+pháp căn đường cơ bản như trình bày trên, phải có được những kinh nghiệm rút 
+ra từ thực nghiệm nhiều lần để nhận biết được vị trí của xe đi trên mặt đường và 
+hướng các  xe sẽ đi tới, từ đó kịp thời hỗ trợ tay lái cho học viên khi xét thấy cần 
+thiết.  
+Trên đây chỉ giới thiệu cách căn bản việc căn đường, trong thực tiễn khi 
+làm nhiệm vụ người giáo viên cần luôn luôn tìm tòi, sáng tạo để có phương pháp 
+căn đường nhanh và hiệu quả để hỗ trợ tay lái cho học viên khi cần thiết. 
+3.3 Hỗ trợ tay lái cho học viên - sử dụng phanh  phụ và phanh tay khi cần 
+thiết. 
+59 
+Trong quá trình học viên điều khiển xe như tham gia giao thông trên đường 
+giao thông công cộng, nhiệm vụ chủ yếu của người giáo viên là hướng dẫn thực 
+hành lái xe và,ngăn ngừa, hỗ trợ kịp thời những tình huống dễ gây tai nạn để bảo 
+đảm  toàn trong điều kiện không trực tiếp lái. Vì vậy, muốn đảm bảo an toàn, 
+người giáo viên phải tập trung cao độ, không chủ quan, luôn biết hướng chuyển 
+động, tốc độ của xe và sẵn sàng hỗ trợ tay lái và phanh phụ khi xảy ra các tình 
+huống dễ mất an toàn. 
+a)  Hỗ trợ tay lái ( đỡ tay lái): 
+Giáo viên phải chủ động theo dõi hướng đi của xe, nếu thấy học viên lái xe 
+có chiều hướng lệch với hướng đường hoặc tốc độ không phù hợp thì ra hiệu cho 
+học viên trả tay lái hay đệm phanh. Khi thấy học viên không đệm phanh, giảm tốc 
+độ không kịp thời và lấy trả tay lái thiếu chính xác, không đảm bảo an toàn, người 
+giáo viên phải thực hiện phương pháp đón trước các tình huống xảy ra. Giáo viên 
+hỗ trợ tay lái bằng các dùng tay trái nắm lấy vành tay lái đặt ở phía dưới tay lái 
+của học viên với độ bám cần thiết để kéo hoặc đẩy sang trái hoặc sang phải cho 
+tới mức vừa đủ để xe trở lại hướng an toàn. Khi đỡ tay lái cần chú ý, khi tay trái 
+làm nhiệm vụ đỡ lái cho thí thì tay phải cầm nắm chắc vào một điểm làm điểm 
+tựa cho tay trái đỡ lái chính xác. Trường hợp học viên nắm giữa quá chặt vành 
+tay lái hoặc lấy lái nhanh cùng chiều với giáo viên và cũng có trường hợp đẩy, lấy 
+lái ngược chiều với sát hạch  viên, tuỳ theo các trường hợp sẽ áp dụng lấy trả 
+nhiều hay ít, lực tác động lên vành tay lái mạnh hay nhẹ, để điều chỉnh hướng đi 
+cho xe đảm bảo an toàn. 
+Trường hợp xe chạy ở tốc độ cao, khi hỗ trợ tay lái cho học viên nhất thiết 
+phải đệm phanh, giảm tốc độ và ngược lại, mỗi khi cần xử lý đến phanh để giảm 
+tốc độ và ngược lại, mỗi khi cần xử lý đến phanh để giảm tốc độ thì cũng phải hỗ 
+trợ tay lái. 
+Khi hỗ trợ tay lái, người giáo viên cần bình tĩnh, thận trọng, thái độ nhã 
+nhặn tránh giận giữ, cáu gắt hoặc có những lời nói thiếu tôn trọng, có thể làm cho 
+học viên mất bình tĩnh, không những không xử lý đúng mà có khi còn dẫn đến 
+mất an toàn. 
+Chỉ nên hỗ trợ tay lái và phanh chân phụ khi thấy thật cần thiết để đảm bảo 
+an toàn, vì mỗi lần đỡ tay lái sẽ làm trạng thái tâm lý của học viên thay đổi, dễ mt 
+bình tĩnh, các thao tác  sau đó không chuẩn xác làm ảnh hưởng  đến kết quả sát 
+hạch của học viên, có học viên mất cảm giác là đang dự sát hạch nên có thể ỷ lại, 
+trông chờ, dựa vào giáo viên khi gặp các tình huống trên đường phải xử lý. 
+60 
+b) Sử dụng phanh phụ: 
+Như phần trên đã trình bày, khi xe chạy nhanh, nếu cần phải đỡ tay lái cho 
+học viên, bắt buộc người giáo viên phải kết hợp sử dụng phanh phụ giảm để giảm 
+bớt tốc độ của xe và đỡ tay lái cho chính xác, kịp thời, đề phòng tai nạn. Ngược 
+lại, lúc phanh xe, nhất là khi phanh mạnh, phanh gấp, cần phải đỡ giữ tay lái do 
+tình trạng mặt đường hay lực hãm ở các bánh xe không đều nhau, xe chuyển 
+hướng bất ngờ xảy ra nguy hiểm. 
+Căn cứ vào tình trạng của mặt đường và khả năng quan sát, nên hướng dẫn  
+học viên sử dụng tốc độ hợp lý, hạn chế tối đa các sự việc bất ngờ để tránh phanh 
+gấp, sử dụng phanh chân để giảm tốc độ không hợp lý, không đúng lúc, sẽ giảm 
+đi tính chủ động, tính chính xác về phán đoán tốc độ, nghe tiếng động cơ và tầm 
+bon (đà xe) của học viên trong quá trình nhận biết. 
+c) Phanh tay 
+Phanh tay chủ yếu để giữ cho xe không bị trôi tụt khi đỗ hay dừng trên 
+đường có độ dốc. Phanh tay cũng được dùng để phối hợp hỗ trợ phanh chân khi 
+cần thiết để hãm xe cấp tốc, rút ngắn cự ly dừng trong khoảng cách ngắn nhất. 
+Thông thường người giáo viên sử dụng phanh tay để bảo hiểm trong trường hợp 
+phanh chân mất tác dụng hoặc ít hiệu lực hãm xe. Khi sử dụng phanh tay nên kéo 
+từ từ, để hiệu lực phanh tăng dần, không được kéo phanh tay gấp khi phanh chân 
+còn hiệu quả và tốc độ xe còn cao. 
+3.4 Làm chủ tốc độ của xe 
+Muốn chủ động trước các tình huống trên đường thì luôn phải làm chủ 
+được tốc độ của xe. Tốc độ xe chạy phụ thuộc vào khả năng quan sát, trình độ 
+phán đoán xử trí và kỹ thuật điều khiển tay lái, mức độ chính xác khi căn đường 
+của học viên. Tuỳ theo trình độ từng học viên, trình độ kỹ thuật bảo hiểm của 
+giáo viên, để duy trì tốc độ xe thích hợp ở từng điều kiện thực tế, tốt nhất là sử 
+dụng chân ga để tăng, giảm tốc độ. Học viên có kỹ thuật lái xe tốt là có sự kết 
+hợp giữa tốc độ của xe với việc phán đoán các xe đi ngược chiều, cùng chiều, các 
+chướng ngại vật trên mặt đường để tìm vị trí tránh, vượt chỗ nào tốt nhất, để đảm 
+bảo an toàn mà không cần hoặc ít  sử dụng đến phanh.  Người giáo viên đóng vai 
+trò rất quan trọng trong việc duy trì tốc độ của xe tuy không trực tiếp điều khiển, 
+kịp thời ra các mệnh lệnh khi xét thất cần thiết để duy trì tốc độ của xe phù hợp. 
+Thông thường khi giảm bớt tốc độ, nên thực hiện theo nguyên tắc ―tiền ga 
+hậu-phanh-thứ ba đến số‖. Khi giảm ga, tốc độ vẫn chưa theo ý muốn thì hãy tiếp 
+tục đệm phanh cho tốc độ chậm lại để đạt được ý định sau đó tuỳ theo tốc độ thực 
+tế về số cho phù hợp với sức kéo của xe. 
+61 
+Việc làm chủ tốc độ của xe sát hạch là rất cần thiết vì khi dự sát hạch 
+không phải hhọc viên nào cũng có được trạng thái bình tĩnh, chủ động trong việc 
+điều khiển xe trên đường nhất là gặp những tình huống phức tạp cần phải có kinh 
+nghiệm xử lý. 
+Làm chủ tốc độ là một khái niệm rộng, suy cho cùng, đã làm chủ được tốc 
+độ thì không bao giờ xảy ra tai nạn do nguyên nhân chủ quan của người điều 
+khiển gây nên. Để đảm bảo an toàn và tuyệt đối trong điều kiện làm việc phức 
+tạp, yêu cầu học viên dự sát hạch và  người sátviên phải phản ứng nhanh, chính 
+xác, kịp thời, luôn làm chủ được tốc độ của xe, làm chủ được mọi tình huống diễn 
+biến trên mặt đường để có các biện pháp xử lý thích hợp. 
+3.5  Bảo hiểm trong các trƣờng hợp 
+a)  Bảo hiểm khi học viên  khởi hành xe 
+Khi khởi hành xe trên đường cũng có nhiều tình huống nguy hiểm có thể 
+xảy ra, trong khi thực hiện thao tác khởi hành xe do thiếu kinh nghiệm, thao tác 
+chưa chuẩn xác, mất bình tĩnh nên học viên không quan sát phía trước, phía sau 
+và hai bên sườn xe, tăng ga quá nhiều, nhả ly hợp đột ngột làm cho xe tiến đột 
+ngột. Mặc khác, khi khởi hành xe học viên hay nhìn xuống phía dưới buồng lái, 
+xe vừa chuyển bánh đã lấy đà ngay tay lái xe ra giữa đường, nếu có người hoặc 
+các phương tiện khác cùng tham gia giao thông, đặc biệt xe vượt từ phía sau thì 
+rất nguy hiểm. 
+Sau đây là phương pháp bảo hiểm trong một số tình huống khi khởi hành xe: - Giáo viên phải quan sát gương chiếu hậu đề phòng người và các phương tiện 
+khác từ phía sau vượt lên, nếu quan sát thấy có khả năng gây nguy hểm thì phải 
+đỡ tay lái kéo sang phải, đồng thời đệm phanh giảm tốc độ và nhắc nhở thí  sinh 
+bình tĩnh thực hiện thao tác cho xe khởi hành được êm dịu. - Khi học viên đi ga qúa lớn và nhả ly hợp đột ngột, giáo viên phải có biện pháp 
+bảo hiểm nhanh, đề phòng - phanh kém hiệu lực do lực kéo của xe rất lớn thì ngay lập tức nhắc học viên 
+nhả bớt chân ga. Trường hợp đặc biệt,  phải can thiệp nhanh bằng cách đẩy chân 
+ga của học viên bật ra khỏi bàn đạp ga. - Khi học viên mải chú ý đến các động tác tăng giảm số, không chú ý quan sát 
+mặt đường để điều khiển xe và xử - lý các tình huống trên đường nên hay bị choạng lái, giáo viên phải đề phòng, 
+chủ động đỡ tay lái, đệm phanh ngay khi có tình huống nguy hiểm. 
+62 
+- Khi khởi hành xe không chỉnh được tay lái để xe ép người và xe khác ở hai bên 
+sườn xe, giáo viên phải nhanh chóng đỡ tay lái khỏi tình huống nguy hiểm, đồng 
+thời đệm phanh, giảm tốc độ. 
+b) Bảo hiểm khi xe chạy  trên đường lên dốc xuống dốc, khởi hành xe lên dốc. 
+Khi xe chạy trên đoạn đường đèo dốc, nhất là những đoạn đường có độ dốc 
+cao và xe có tải trọng lớn thì phải tăng và giảm số để phù hợp với lực kéo của xe 
+khi lên dốc, xuống dốc. 
+Trong khi điều khiển xe trên đoạn đường dốc, có học viên do căng thẳng, 
+tập trung vào điều khiển xe nên không phán đoán được độ dốc cao hay thấp, 
+không phân biệt được máy khoẻ hay máy yếu, không chủ động điều khiển xe nên 
+khi  giáo viên ra hiệu lệnh dễ mất bình tĩnh, dẫn đến lúng túng, khi thực hiện thao 
+tác thường là sai, gài số không đúng, vào số chậm, xe mất đà yếu máy, dừng xe 
+lại ngang dốc hoặc trôi tụt dốc rất nguy hiểm. 
+Sau đây là phương pháp bảo hiểm trong một số tình huống nguy hiểm trên 
+đường đèo dốc: - Tình huống xe bị chết máy, trôi tụt dốc khi khởi hành xe lên dốc: Do không 
+tăng ga khi khởi hành xe, do nhả ly chưa hợp chưa đến tầm tiếp giáp đã nhả 
+phanh tay, thao tác sai quy trình và chậm không vào được số, gài nhầm vào các số 
+khác vv... Khi để chết máy và bị trôi tụt học viên thường mất bình tĩnh, lúng túng 
+không làm chủ được thì giáo viên phải hỗ trợ kịp thời trước khi để xe bị trôi tụt 
+xuống dốc, bằng cách nhanh chóng đệm phanh cho xe dừng lại, kéo phanh tay 
+đồng thời nhắc để học viên khắc phục được các sai sót. - Tình huống xe bị mất đà, máy yếu và chết máy: Khi tăng giảm số lên dốc, thí  
+sinh  mất bình tĩnh, thao tác lúng túng, sai quy trình, gài nhầm vào số khác thì 
+ngay tức khắc nhắc thí khắc phục sai hỏng. Đồng thời đỡ tay lái, đệm phanh ngay 
+khi thấy cần thiết và hỗ trợ gài số thích hợp với tốc độ của xe để không bị yếu 
+máy. Nếu mất đà thì phải phanh dừng xe lại, kéo phanh tay và nhắc cho học viên 
+khởi hành lại. Mặt khác giáo viên phải chú ý đến những trường hợp khi thực hiện 
+thao tác khác, học viên không chú ý đến tay lái nên gây choạng lái, thì phải kịp 
+thời hỗ trợ tay lái để cho xe đi đúng hướng, kể cả khi xe lên dốc cũng như xuống 
+dốc. - 
+Tình huống xe bị trôi khi đang xuống dốc do thao tác sai quy trình, gài nhầm 
+số, thao tác quá chậm nên không gài được số, dẫn đến xe trôi tự do: Học viên mất 
+bình tĩnh, lúng túng chỉ tập trung nhìn vào cần số đẻ gài số mà không biét đệm 
+phanh cho tốc độ chậm lại để vào số, không nhìn đường để điều khiển xe, người 
+giáo viên phải chủ động đề phòng trước các sai sót của học viên để đỡ tay lái và 
+63 
+đệm phanh giảm tốc độ. Đồng thời nhắc nhở học viên bình tĩnh khắc phục, nếu 
+xét thấy cần thiết hỗ trợ học viên vào số thích hợp với tốc độ xe. 
+c) Bảo hiểm khi xe chạy trên đường vòng 
+Khi xe chạy vào đường vòng, đặc biệt là những đoạn đường vòng có tầm 
+nhìn bị che khuất, mặt đường hẹp, đường vòng lên dốc, đường vòng xuống dốc: 
+Do chưa làm chủ được tốc độ, căn đường chưa chính xác, chủ quan không đề 
+phòng nguy hiểm, sử dụng số và tốc độ chưa phù hợp nên khi vào đường vòng 
+gặp tình huống nguy hiểm đột ngột học viên thường mất bình tĩnh, không làm chủ 
+được tay lái cũng như thao tác, do vậy dễ xảy ra mất an toàn. 
+Sau đây là phương pháp bảo hiểm trong một số tình huống khi xe chạy đường 
+vòng: - 
+Khi xe chạy không đúng phần đường như lấn chiếm phần đường bên trái hoặc 
+quá sát vào lề đường bên phải do học viên căn đường chưa chính xác, thì ngay lập 
+tức giáo viên ra hiệu lệnh cho  học viên lấy lái cho xe trở lại phần đường bên 
+phải. Nếu xét thấy vẫn còn biểu hiện xe chưa đi đúng phần đường thì đỡ tay lái, 
+trường hợp đặc biệt người giáo viên vừa đỡ tay lái cho xe trở lại phần đường vừa 
+đệm phanh cho xe giảm tốc độ, nếu xét thấy nguy hiểm thì phanh cho xe dừng lại 
+để đảm bảo an toàn. - 
+Khi gặp xe đi ngược chiều ở đoạn đường vòng có mặt đường hẹp, tầm nhìn bị 
+che khuất, khi gặp xe đi ngược chiều học viên thường giật mình, do chủ quan 
+không dự đoán trước nên hay mất bình tĩnh dẫn đến thao tác không chính xác, vội 
+vàng giảm số khi tốc độ của xe còn nhanh và không gài được số, không chú ý đến 
+tay lái, gây choạng lái rất nguy hiểm. Người giáo viên phải chủ động đề phòng 
+trước mọi diễn biến của đường, của học viên khi thực hiện thao tác, từ đó kịp thời 
+đỡ tay lái cho xe đi đúng hướng, đệm phanh và hỗ trợ học viên nếu xét thấy cần 
+thiết. 
+d) Xử lý một số tình huống trên các loại  đường: 
+Tình huống lấy ngược tay lái thỉng thoảng vẫn gặp thấy ở một số học viên 
+do quá căng thẳng, mất bình tĩnh khi điều khiển xe. Vì vậy, khi thực hiện bảo 
+hiểm người  giáo viên  phải chú ý đề phòng và hỗ trợ kịp thời khi học viên lấy tay 
+lái ngược. Trong khi đỡ lái, phải dùng tay kéo, đẩy mạnh tay lái từ phía dưới lên 
+để làm bật tay học viên ra khỏi vành tay lái, vì theo quán tính khi lấy trả lái học 
+viên cầm rất chặt tay vào vành tay lái. - 
+Tình huống học viên lấy trả tay lái thiếu chính xác: Do thiếu kinh nghiệm, lấy 
+quá nhiều hoặc trả quá nhiều lái làm cho xe hcạy chữ chi trên đường, thì giáo viên 
+phải đỡ tay lái. Đồng thời nhắc học viên khi lấy hoặc trả tay lái chỉ nên trực hiện 
+ở mức độ nhất định. 
+64 
+- 
+Tình huống học viên sử dụng phanh chưa chuẩn: Phanh nhiều quá hoặc ít quá 
+do chưa làm chủ được lực phanh có thể do nguyên nhân chưa quen với xe thì  
+giáo viên nên hỗ trợ ngay. Nếu phanh ít quá, chưa giảm được tốc độ, chưa đảm 
+bảo được an toàn thì vừa nhắc nhở, vừa đệm phanh phù hợp để học viên rút kinh 
+nghiệm. Nếu học viên sử dụng phanh quá gấp thì giáo viên phải nhắc nhả  bớt 
+chân phanh. Nếu xét thấy cần thiết có thể dùng biện pháp đẩy chân phanh của học 
+viên ra khỏi bàn đạp phanh. - 
+Tình huống tránh xe nguy hiểm: Biểu hiện khi hai xe đang tránh nhau đã lấy 
+lái ra quá sớm do học viên thiếu kinh nghiệm, giáo viên phải biết trước được ý 
+định của học viên, từ đó kịp thời đỡ tay lái và đệm phanh trước khi học viên lấy 
+tay lái sang bên trái sớm. - 
+Tình huống vượt xe nguy hiểm: Biểu hiện khi vượt, xe chưa vượt qua xe khỏi 
+xe khác đã lấy tay lái vào bên phải do học viên chưa ước lượng được tốc độ của 
+xe đi trước và xe mình. Vì vậy, khi vượt xe giáo viên phải nhắc nhở, đề phòng và 
+sẵn sàng đỡ tay lái trước khi học viên có biểu hiện lấy tay lái sớm vào bên phải. - 
+Tình huống xe đi qua đoạn đường trơn trượt: Học viên vẫn có biểu hiện lấy 
+tay lái gấp và phanh gấp do thiếu kinh nghiệm, do chủ quan chưa thấy hết sự 
+nguy hiểm khi qua những đoạn đường này. Trước khi xe đến đoạn đường trơn 
+trượt, nếu xét thấy cần thiết, giáo viên phải lưu ý trước cho học viên biết được 
+phương pháp điều khiển xe trên đường trơn trượt, đồng thời can thiệp khi nguy 
+hiểm. Nếu thấyhọc viên có biểu hiện lấy tay lái gấp thì phải lập tức giữ lại. Nếu 
+thấy có biểu hiện phanh gấp thì lập tức nhắc học viên nhả bớt chân phanh. 
+Trường hợp đặc biệt giáo viên viên phải can thiệp nhanh bằng cách dùng tay hoặc 
+chân nhanh chóng đẩy chân phanh của học viên ra khỏi bàn đạp phanh. Khi đã 
+thấy xe có hiện tượng trơn trượt phải nhắc học viên bình tĩnh giữ ổn định, giảm 
+ngay tốc độc của xe bằng cách nhả hết chân ga và giảm số,  giáo viên hỗ trợ tay 
+lái. Khi phát hiện thấy xe bị trơn trượt về bên nào thì lấy nhẹ tay lái về bên đó, 
+khi đã thăng bằng thì mới tiếp tục lấy lái theo ý muốn,  không được phanh gấp và 
+lấy tay lái gấp. Khi xe chạy qua đoạn đường trơn trượt phải lấy trả lái từ từ, đệm 
+phanh từ từ. - 
+Tình huống xe qua nơi đông người nguy hiểm: Xe thường hay ép sát người, 
+tránh nhau hàng ba trên đường... 
+Do thiếu kinh nghiệm, học viên sử dụng tốc độ và số không phù hợp, 
+không hiểu được tâm lý người đi đường, căn đường chưa chính xác, thực hiện 
+thao tác cơ bản sai. Vì vậy, nếu xét thấy cần thiết trước khi xe qua đoạn đường 
+đông người, giáo viên phải nhắc nhở học viên quan sát trước đề phòng nguy 
+65 
+hiểm, sử dụng tốc độ và số phù hợp, đồng thời giáo viên phải chuẩn bị để kịp thời 
+đỡ tay lái tránh tình huống nguy hiểm, hỗ trợ chân phanh để đảm bảo an toàn. 
+10 Phán đoán trạng thái tâm lý 
+4.1 Phán đoán trạng thái tâm lý của học viên 
+Tâm lý chung của học viên khi dự sát hạch lái xe trên đường thường hay 
+mất bình tĩnh hoặc thiếu tự tin, khi gặp các tình huống nguy hiểm xử lý không 
+chính xác, Khi người giáo viên đỡ tay lái,học viên dễ lấy và trả theo ý giáo viên, 
+song thường là tác động vào vành tay lái nhanh và mạnh nên dẫn đến bị quá lái 
+làm xe lệch hướng chuyển động, nếu xe ở tốc độ cao có thể mất an toàn. 
+Khi gặp các tình huống nguy hiểm đột ngột, học viên thường biểu hiện 
+lúng túng, thiếu quả quyết, phản ứng giải quyết theo kiểu nửa vời không dứt 
+khoát, khi gặp các trường hợp đó, giáo viên phải phán đoán tâm lý, chủ động 
+nhắc nhở phương pháp và những điều cần lưu ý. Trước khi học viên có biểu hiện 
+lúng túng và không tự tin vào mình, như gặp các trường hợp nguy hiểm, đáng lẽ 
+phải giảm ga chuyển sang đệm phanh nhưng do lúng túng không chuyển chân 
+sang đệm phanh lại trực tiếp đệm thêm ga tăng tốc độ đột ngột rất nguy hiểm. 
+Khi học viên thực hiện thao tác không vào số, lẽ ra phải vù ga lại để gài số 
+tiếp, nhưng học viên bối rối không nhận ra mà lại cố ấn, kéo tay số, số không vào 
+lại sinh ra tiếng kêu lớn, kéo dài có trường hợp gẫy cả cần số. Trong trường hợp 
+này, khi xe xuống dốc dẫn đến tình trạng tốc độ xe càng chuyển động nhanh, 
+đáng lẽ học viên phải đệm phanh chậm lại tương ứng tốc độ để vù ga về số thích 
+hợp nhưng lại không đệm phanh để giảm tốc độ hoặc có trường hợp lại phanh cho 
+xe dừng lại hẳn, vù ga rất to để về số, dẫn đến kêu kẹt càng lớn, do quá tập trung 
+vào thao tác số, chỉ nhìn xuống tay số, không để ý đến tay lái mình đang điều 
+khiển, dễ gây tai nạn. 
+Việc phân biệt trình độ của mỗi học viên trong khoảng thời gian rất ngắn là 
+công việc cần thiết đối với người giáo viên để có thể hỗ trợ các tình huống cần 
+thiết kịp thời. Mặt khác thái độ ứng xử của người giáo viên phải có tính nghệ 
+thuật trong giao tiếp, phải có thái độ hoà nhã, tế nhị, nhìn xa thấy trước, hiểu sâu 
+tâm lý, đem lại hiệu quả, tránh mọi sự nóng nảy, lời nói thiếu nhã nhặn, thái độ 
+lạnh nhạt, thờ ơ. Những hành vi đó đều có thể dẫn đến hậu quả không tốt., thậm 
+chí có thể gây nên tai nạn đáng không nên có trong quá trình học viên dự sát hạch 
+lái xe trên đường. 
+4.2 Phán đoán trạng thái tâm lý ngƣời đi đƣờng 
+66 
+Phán đoán trạng thái của người đi đường là nội dung rất quan trọng để đảm 
+bảo an toàn đối với người và phương tiện. Muốn phán đoán được tốt, cần phải 
+hiểu tình hình chung của người, phương tiện tham gia giao thông cũng như phong 
+tục, tập quán của từng địa phương. Người giáo viên phải nhận định phán đoán, 
+trạng thái tâm lý của từng đối tượng và có phương pháp xử lý phù hợp. Xin được 
+trình bày một số trạng thái tâm lý đặc trưng của người đi đường: 
+a) Do quá nhút nhát 
+Trong những người đi trên đường, đặc biệt là ở vùng miền núi, vùng sâu 
+vùng xa có người khi nghe tiếng còi, tiếng xe từ xa đã hoảng hốt, lúc xe đến gần 
+họ cảm thấy như xe to hơn và đường đi như hẹp lại, tự thấy mình đứng chỗ nào 
+cũng không đảm bảo, họ nhìn trước, nhìn sau khi xe đến gần thì luống cuống, 
+thấy mé đường bên kia có lề hoặc mép đường, bãi trống rộng hơn cho là an toàn 
+là chạy tắt ngang sang, một người chạy, người khác cũng chạy theo. Nếu không 
+hiểu biết tâm lý mà dự đoán, đề phòng trước mặt rất dễ xảy ra tai nạn. Gặp trường 
+hợp này  nên ra hiệu lệnh cho học viên  bóp còi từ xa và giảm tốc độ cho xe chạy 
+chậm, chủ động đề phòng, vì những người này hầu như không hiểu biết gì về 
+Luật giao thông đường bộ. 
+b) Chủ quan, coi thường 
+Một số người cho rằng, ô tô phải tránh mình nên mình không phải tránh, 
+khi nhìn thấy xe, nghe tiếng còi họ vẫn điềm nhiên như không thấy, nhưng khi xe 
+tới nơi họ mới cuống lên hoặc trù trừ muốn chạy, nhưng không định một cách 
+tránh cụ thể. Trường hợp này cũng dễ xảy ra tai nạn, nên giáo viên nếu xét thấy 
+cần thiết phải nhắc nhở học viên, phải bình tĩnh quan sát, phán đoán trạng thái 
+tâm lý của người đi đường để xử lý kịp thời. 
+c) Tránh bụi khi xe đi tới 
+Bụi đường thường kéo theo xe làm người lái xe không nhìn thấy đường khi 
+có gió, bụi đường tạt về một phía theo chiều gió, người tham gia giao thông trên 
+đường vì tránh bụi nên không để ý. Khi xe còn khoảng cách xa không tránh, khi 
+xe đến gần nhìn tháy phía đường mình đang đi có bụi thì lấy mũ, nón che kín mặt, 
+chạy băng qua đường không chú ý đến xe, nên rất dễ xảy ra nguy hiểm.
+ Cũng có trường hợp, một số người vì sợ bụi nên đi xe đạp, xe máy trái 
+67 
+đường, khi xe đến gần thì lại lái xe ra qua đường để về bên phải, do luống cuống 
+lấy lái gấp thường bị ngã ra đường. Vì vậy, khi gặp các đoạn đường có bụi, đều 
+phải chuẩn bị đề phòng trước, khi thấy người ở xa nên bóp còi hoặc báo cho 
+người đi đường biết để họ tránh sang một bên. 
+d) Nhìn đường về một bên hay một phía đường 
+Quá trình tham gia giao thông thường gặp một số người đi bộ hoặc đi xe 
+đạp, chỉ nhìn về một phía đường, thể hiện ở các tình huống sau: 
++ Trường hợp người đi đường chỉ nhìn về một bên, thấy không có xe là đi qua 
+đường hoặc khi đi tới giữa đường mới thấy xe nên hốt hoảng, lúng túng. 
++ Trường hợp đã đi ra gần giữa đường, thấy phía trước không có xe tới, nhưng 
+không chú ý đến xe đi ở phía sau cùng chiều, khi phát hiện ra nên hốt hoảng, lúng 
+túng. 
++ Trường hợp đã khi tránh xe, thấy xe vừa qua là sang đường ngay không chú ý 
+xe có kéo rơ moóc không, hoặc có xe đi tiếp theo sau. 
++ Trường hợp người đi bộ, đi xe đạp, xe máy đi song song hoặc ngược chiều với 
+đoạn đường có tàu hoả đang chạy, do mải nhìn tàu mà không chú ý đến xe ô tô 
+đang đi tới. 
++ Trường hợp gặp xe ô tô đỗ hoặc dừng trên đường, đặc biệt là xe khách cần phải 
+đề phòng khi tránh và trượt xe, có những người không quan sát về hai phía mà 
+đột ngột sang đường. 
+e) Đối với trẻ em và cụ già - Đối với trẻ em 
+Khi trẻ em ra đường không nhận biết được là xe tránh mình hay mình phải 
+tránh xe, có em thấy xe thì chạy ùa ra đường xem, có em thấy các anh chị đứng 
+bên kia đường thì chạy qua đường. Đặc biệt là các em nhỏ khi bố mẹ bên kia 
+đường, khi xe đến gần do sợ hãi nên chạy qua đường đến với bố mẹ. - Đối với cụ già 
+Khi các cụ già, do sức khoẻ kém, đi chậm, mắt kém, tai nghễnh ngãng, nên 
+khi có xe đến gần mới giật mình, không biết tránh ra hướng nào, cứ chạy qua lại, 
+cuối cùng lúng túng, đứng ở giữa đường.  
+g) Khi gặp người gồng gánh, khuân vác, hàng hoá cồng kềnh, chăn dắt súc vật. 
+68 
+- 
+Người khuân vác, gồng gánh cồng kềnh, khi nghe tiếng còi xe báo hiệu, người 
+tránh vào sát lề đường làm đòn gánh và các vật cồng kềnh chiếm lòng đường. Vì 
+vậy, khi gặp trường hợp này phải ra tín hiệu từ đằng xa và đề phòng khi xe đến 
+gần. -  
+Người chăn dắt đàn súc vật trên đường, thường họ chỉ chú ý đến súc vật 
+không để ý đến xe đang đi tới, hoặc mải đuổi súc vật không để ý xe đến. Vì vậy 
+phải đề phòng đàn súc vật lao vào xe, dễ xảy ra tai nạn cho người chăn dắt cũng 
+như thiệt hại đàn gia súc. 
+h) Người u sầu tư lự. 
+Có người chìm đắm trong suy nghĩ vì sầu muộn trong khi đi đường, hai 
+chân bước đi theo bản năng, họ không để ý đến những gì xảy ra xung quanh, 
+những người này thường hay đi một mình, tư thế đi đường cũng khác mọi người 
+nên dễ nhận ra. 
+i ) Khi trời mưa to gió lớn. 
+Khi gặp mưa to gió lớn, tình hình đường xá diễn biến phức tạp, lúc đó phải 
+chú ý nắm vững chiều gió và trạng thái tâm lý của người đi đường, họ thường vội 
+vàng hấp tấp nhất là đối với người mặc áo mưa vì mặt, tai họ bị che hạn chế nghe, 
+nhìn, thấy xe đến gần không tránh kịp, hốt hoảng, dễ xảy ra nguy hiểm. 
+Tóm lại: việc phán đoán trạng thái tâm lý của người đi đường rất quan 
+trọng cho người giáo viên và học viên khi lái xe trên đường, nếu biết được tâm lý 
+của người tham gia giao thông sẽ tránh được nguy hiểm. Trên đây là một số 
+trường hợp thường gặp, trong thực tế còn có rất nhiều tình húong có thể xảy ra. 
+Vì vậy, người giáo viên cũng như học viên dự sát hạch dù gặp trường hợp nào 
+cũng phải bình tĩnh làm chủ tốc độ, đón trước những tình huống có thể xảy ra, để 
+có phương án xử lý kịp thời nhằm đảm bảo an toàn tuyệt đối cho người và 
+phương tiện.  
+69 
 
 
 
-
-
-Nơi học lái xe trên địa bàn Quảng Trị, Buảng Bình
+Nơi học lái xe trên địa bàn Quảng Trị, Quảng Bình, Hà Tĩnh, Thừa Thiên Huế và Đà Nẵng
 https://ktcnn.edu.vn/
 TRƯỜNG CAO ĐẲNG KỸ THUẬT CÔNG - NÔNG NGHIỆP QUẢNG BÌNH
 Địa chỉ: Số 01 - Trần Nhật Duật - Đức Ninh - Đồng Hới - Quảng Bình
